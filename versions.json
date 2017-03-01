@@ -1,73 +1,73 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Section profiles and levels improved.",
-		"Version":{"_Major":1,"_Minor":2,"_Build":0,"_Revision":0}
+		"Description":"Filtering improved.",
+		"Version":{"_Major":1,"_Minor":2,"_Build":1,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Section profiles and levels improved.",
-		"Version":{"_Major":1,"_Minor":2,"_Build":0,"_Revision":0}
+		"Description":"Filtering improved.",
+		"Version":{"_Major":1,"_Minor":2,"_Build":1,"_Revision":0}
 	},
 	
 	"sap-17" :
 	{
-		"Description":"Section profiles and levels improved.",
-		"Version":{"_Major":1,"_Minor":2,"_Build":0,"_Revision":0}
+		"Description":"Filtering improved.",
+		"Version":{"_Major":1,"_Minor":2,"_Build":1,"_Revision":0}
 	},
 	
 	"sap-18" :
 	{
-		"Description":"Section profiles and levels improved.",
-		"Version":{"_Major":1,"_Minor":2,"_Build":0,"_Revision":0}
+		"Description":"Filtering improved.",
+		"Version":{"_Major":1,"_Minor":2,"_Build":1,"_Revision":0}
 	},
 	
 	"grasshopper-1" :
 	{
-		"Description":"Section profiles and levels improved.",
-		"Version":{"_Major":0,"_Minor":6,"_Build":5,"_Revision":0}
+		"Description":"Filtering improved.",
+		"Version":{"_Major":0,"_Minor":6,"_Build":6,"_Revision":0}
 	},
 	
 	"etabs-2015" :
 	{
-		"Description":"Section profiles and levels improved.",
-		"Version":{"_Major":1,"_Minor":2,"_Build":0,"_Revision":0}
+		"Description":"Filtering improved.",
+		"Version":{"_Major":1,"_Minor":2,"_Build":1,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
-		"Description":"Section profiles and levels improved.",
-		"Version":{"_Major":1,"_Minor":2,"_Build":0,"_Revision":0}
+		"Description":"Filtering improved.",
+		"Version":{"_Major":1,"_Minor":2,"_Build":1,"_Revision":0}
 	},
 	
 	"excel-2013" :
 	{
-		"Description":"Section profiles and levels improved.",
-		"Version":{"_Major":1,"_Minor":2,"_Build":0,"_Revision":0}
+		"Description":"Filtering improved.",
+		"Version":{"_Major":1,"_Minor":2,"_Build":1,"_Revision":0}
 	},
 	
 	"ram-00" :
 	{
-		"Description":"Section profiles and levels improved.",
-		"Version":{"_Major":0,"_Minor":6,"_Build":5,"_Revision":0}
+		"Description":"Filtering improved.",
+		"Version":{"_Major":0,"_Minor":6,"_Build":6,"_Revision":0}
 	},
 	
 	"tekla-20" :
 	{
-		"Description":"Section profiles and levels improved.",
-		"Version":{"_Major":1,"_Minor":2,"_Build":0,"_Revision":0}
+		"Description":"Filtering improved.",
+		"Version":{"_Major":1,"_Minor":2,"_Build":1,"_Revision":0}
 	},
 	
 	"tekla-21" :
 	{
-		"Description":"Section profiles and levels improved.",
-		"Version":{"_Major":1,"_Minor":2,"_Build":0,"_Revision":0}
+		"Description":"Filtering improved.",
+		"Version":{"_Major":1,"_Minor":2,"_Build":1,"_Revision":0}
 	},
 	
 	"tekla-2016i" :
 	{
-		"Description":"Section profiles and levels improved.",
-		"Version":{"_Major":1,"_Minor":2,"_Build":0,"_Revision":0}
+		"Description":"Filtering improved.",
+		"Version":{"_Major":1,"_Minor":2,"_Build":1,"_Revision":0}
 	}
 }
