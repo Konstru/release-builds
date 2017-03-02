@@ -1,14 +1,14 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Filtering improved.",
-		"Version":{"_Major":1,"_Minor":2,"_Build":1,"_Revision":0}
+		"Description":"Materials fixed.",
+		"Version":{"_Major":1,"_Minor":2,"_Build":2,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Filtering improved.",
-		"Version":{"_Major":1,"_Minor":2,"_Build":1,"_Revision":0}
+		"Description":"Materials fixed.",
+		"Version":{"_Major":1,"_Minor":2,"_Build":2,"_Revision":0}
 	},
 	
 	"sap-17" :
@@ -25,8 +25,8 @@
 	
 	"grasshopper-1" :
 	{
-		"Description":"Filtering improved.",
-		"Version":{"_Major":0,"_Minor":6,"_Build":6,"_Revision":0}
+		"Description":"Extrusions improved.",
+		"Version":{"_Major":0,"_Minor":6,"_Build":7,"_Revision":0}
 	},
 	
 	"etabs-2015" :
