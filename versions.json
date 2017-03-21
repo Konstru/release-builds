@@ -1,14 +1,14 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Materials fixed.",
-		"Version":{"_Major":1,"_Minor":2,"_Build":2,"_Revision":0}
+		"Description":"Profile extraction improved.",
+		"Version":{"_Major":1,"_Minor":2,"_Build":5,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Materials fixed.",
-		"Version":{"_Major":1,"_Minor":2,"_Build":2,"_Revision":0}
+		"Description":"Profile extraction improved.",
+		"Version":{"_Major":1,"_Minor":2,"_Build":5,"_Revision":0}
 	},
 	
 	"sap-17" :
