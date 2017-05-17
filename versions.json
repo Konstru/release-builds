@@ -2,72 +2,72 @@
 	"revit-2016" : 
 	{
 		"Description":"Profile extraction improved.",
-		"Version":{"_Major":1,"_Minor":5,"_Build":3,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":2,"_Build":5,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
 		"Description":"Profile extraction improved.",
-		"Version":{"_Major":1,"_Minor":5,"_Build":3,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":2,"_Build":5,"_Revision":0}
 	},
 	
 	"sap-17" :
 	{
 		"Description":"Filtering improved.",
-		"Version":{"_Major":1,"_Minor":5,"_Build":3,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":2,"_Build":1,"_Revision":0}
 	},
 	
 	"sap-18" :
 	{
 		"Description":"Filtering improved.",
-		"Version":{"_Major":1,"_Minor":5,"_Build":3,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":2,"_Build":1,"_Revision":0}
 	},
 	
 	"grasshopper-1" :
 	{
 		"Description":"Extrusions improved.",
-		"Version":{"_Major":1,"_Minor":5,"_Build":3,"_Revision":0}
+		"Version":{"_Major":0,"_Minor":6,"_Build":8,"_Revision":0}
 	},
 	
 	"etabs-2015" :
 	{
 		"Description":"Filtering improved.",
-		"Version":{"_Major":1,"_Minor":5,"_Build":3,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":2,"_Build":1,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
 		"Description":"Filtering improved.",
-		"Version":{"_Major":1,"_Minor":5,"_Build":3,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":2,"_Build":1,"_Revision":0}
 	},
 	
 	"excel-2013" :
 	{
 		"Description":"Filtering improved.",
-		"Version":{"_Major":1,"_Minor":5,"_Build":3,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":2,"_Build":1,"_Revision":0}
 	},
 	
 	"ram-00" :
 	{
 		"Description":"Filtering improved.",
-		"Version":{"_Major":1,"_Minor":5,"_Build":3,"_Revision":0}
+		"Version":{"_Major":0,"_Minor":6,"_Build":6,"_Revision":0}
 	},
 	
 	"tekla-20" :
 	{
 		"Description":"Filtering improved.",
-		"Version":{"_Major":1,"_Minor":5,"_Build":3,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":2,"_Build":1,"_Revision":0}
 	},
 	
 	"tekla-21" :
 	{
 		"Description":"Filtering improved.",
-		"Version":{"_Major":1,"_Minor":5,"_Build":3,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":2,"_Build":1,"_Revision":0}
 	},
 	
 	"tekla-2016i" :
 	{
 		"Description":"Filtering improved.",
-		"Version":{"_Major":1,"_Minor":5,"_Build":3,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":2,"_Build":1,"_Revision":0}
 	}
 }
