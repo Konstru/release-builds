@@ -50,7 +50,7 @@
 	"excel-2013" :
 	{
 		"Description":"Geometry and interop bugfixes",
-		"Version":{"_Major":1,"_Minor":6,"_Build":3,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":6,"_Build":4,"_Revision":0}
 	},
 	
 	"ram-00" :
