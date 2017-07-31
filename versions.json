@@ -1,85 +1,85 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Added Levels to Selection on Upload",
-		"Version":{"_Major":1,"_Minor":6,"_Build":6,"_Revision":0}
+		"Description":"New Mapping features, added groups for modified elements",
+		"Version":{"_Major":1,"_Minor":6,"_Build":8,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Added Levels to Selection on Upload",
-		"Version":{"_Major":1,"_Minor":6,"_Build":6,"_Revision":0}
+		"Description":"New Mapping features, added groups for modified elements",
+		"Version":{"_Major":1,"_Minor":6,"_Build":8,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"Added Levels to Selection on Upload",
-		"Version":{"_Major":1,"_Minor":6,"_Build":6,"_Revision":0}
+		"Description":"New Mapping features, added groups for modified elements",
+		"Version":{"_Major":1,"_Minor":6,"_Build":8,"_Revision":0}
 	},
 	
 	"sap-17" :
 	{
-		"Description":"Improved Column, Brace and Beam Recognition",
-		"Version":{"_Major":1,"_Minor":6,"_Build":5,"_Revision":0}
+		"Description":"New Mapping features, added groups for modified elements",
+		"Version":{"_Major":1,"_Minor":6,"_Build":8,"_Revision":0}
 	},
 	
 	"sap-18" :
 	{
-		"Description":"Improved Column, Brace and Beam Recognition",
-		"Version":{"_Major":1,"_Minor":6,"_Build":5,"_Revision":0}
+		"Description":"New Mapping features, added groups for modified elements",
+		"Version":{"_Major":1,"_Minor":6,"_Build":8,"_Revision":0}
 	},
 	
 	"sap-19" :
 	{
-		"Description":"Improved Column, Brace and Beam Recognition",
-		"Version":{"_Major":1,"_Minor":6,"_Build":5,"_Revision":0}
+		"Description":"New Mapping features, added groups for modified elements",
+		"Version":{"_Major":1,"_Minor":6,"_Build":8,"_Revision":0}
 	},
 	
 	"grasshopper-1" :
 	{
-		"Description":"Geometry and interop bugfixes",
-		"Version":{"_Major":1,"_Minor":6,"_Build":3,"_Revision":0}
+		"Description":"New Update Components for element types",
+		"Version":{"_Major":1,"_Minor":6,"_Build":8,"_Revision":0}
 	},
 	
 	"etabs-2015" :
 	{
-		"Description":"Improved Column, Brace and Beam Recognition",
-		"Version":{"_Major":1,"_Minor":6,"_Build":5,"_Revision":0}
+		"Description":"New Mapping features, added groups for modified elements",
+		"Version":{"_Major":1,"_Minor":6,"_Build":8,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
-		"Description":"Improved Column, Brace and Beam Recognition",
-		"Version":{"_Major":1,"_Minor":6,"_Build":5,"_Revision":0}
+		"Description":"New Mapping features, added groups for modified elements",
+		"Version":{"_Major":1,"_Minor":6,"_Build":8,"_Revision":0}
 	},
 	
 	"excel-2013" :
 	{
-		"Description":"Geometry and interop bugfixes",
-		"Version":{"_Major":1,"_Minor":6,"_Build":4,"_Revision":0}
+		"Description":"New Mapping features, added groups for modified elements",
+		"Version":{"_Major":1,"_Minor":6,"_Build":8,"_Revision":0}
 	},
 	
 	"ram-00" :
 	{
-		"Description":"Geometry and interop bugfixes",
-		"Version":{"_Major":1,"_Minor":6,"_Build":3,"_Revision":0}
+		"Description":"New Mapping features",
+		"Version":{"_Major":1,"_Minor":6,"_Build":8,"_Revision":0}
 	},
 	
 	"tekla-20" :
 	{
-		"Description":"Geometry and interop bugfixes",
-		"Version":{"_Major":1,"_Minor":6,"_Build":3,"_Revision":0}
+		"Description":"New Mapping features",
+		"Version":{"_Major":1,"_Minor":6,"_Build":8,"_Revision":0}
 	},
 	
 	"tekla-21" :
 	{
-		"Description":"Geometry and interop bugfixes",
-		"Version":{"_Major":1,"_Minor":6,"_Build":3,"_Revision":0}
+		"Description":"New Mapping features",
+		"Version":{"_Major":1,"_Minor":6,"_Build":8,"_Revision":0}
 	},
 	
 	"tekla-2016i" :
 	{
-		"Description":"Geometry and interop bugfixes",
-		"Version":{"_Major":1,"_Minor":6,"_Build":3,"_Revision":0}
+		"Description":"New Mapping features",
+		"Version":{"_Major":1,"_Minor":6,"_Build":8,"_Revision":0}
 	}
 }
