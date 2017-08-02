@@ -2,19 +2,19 @@
 	"revit-2016" : 
 	{
 		"Description":"New Mapping features, added groups for modified elements",
-		"Version":{"_Major":1,"_Minor":6,"_Build":8,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":7,"_Build":0,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
 		"Description":"New Mapping features, added groups for modified elements",
-		"Version":{"_Major":1,"_Minor":6,"_Build":8,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":7,"_Build":0,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
 		"Description":"New Mapping features, added groups for modified elements",
-		"Version":{"_Major":1,"_Minor":6,"_Build":8,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":7,"_Build":0,"_Revision":0}
 	},
 	
 	"sap-17" :
@@ -44,42 +44,42 @@
 	"etabs-2015" :
 	{
 		"Description":"New Mapping features, added groups for modified elements",
-		"Version":{"_Major":1,"_Minor":6,"_Build":8,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":7,"_Build":0,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
 		"Description":"New Mapping features, added groups for modified elements",
-		"Version":{"_Major":1,"_Minor":6,"_Build":8,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":7,"_Build":0,"_Revision":0}
 	},
 	
 	"excel-2013" :
 	{
 		"Description":"New Mapping features, added groups for modified elements",
-		"Version":{"_Major":1,"_Minor":6,"_Build":8,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":7,"_Build":0,"_Revision":0}
 	},
 	
 	"ram-00" :
 	{
 		"Description":"New Mapping features",
-		"Version":{"_Major":1,"_Minor":6,"_Build":8,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":7,"_Build":0,"_Revision":0}
 	},
 	
 	"tekla-20" :
 	{
 		"Description":"New Mapping features",
-		"Version":{"_Major":1,"_Minor":6,"_Build":8,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":7,"_Build":0,"_Revision":0}
 	},
 	
 	"tekla-21" :
 	{
 		"Description":"New Mapping features",
-		"Version":{"_Major":1,"_Minor":6,"_Build":8,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":7,"_Build":0,"_Revision":0}
 	},
 	
 	"tekla-2016i" :
 	{
 		"Description":"New Mapping features",
-		"Version":{"_Major":1,"_Minor":6,"_Build":8,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":7,"_Build":0,"_Revision":0}
 	}
 }
