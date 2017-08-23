@@ -1,20 +1,20 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Added TypeName Attribute for Adeptive Components",
-		"Version":{"_Major":1,"_Minor":7,"_Build":1,"_Revision":0}
+		"Description":"Fixed empty Force Attributes",
+		"Version":{"_Major":1,"_Minor":7,"_Build":2,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Added TypeName Attribute for Adeptive Components",
-		"Version":{"_Major":1,"_Minor":7,"_Build":1,"_Revision":0}
+		"Description":"Fixed empty Force Attributes",
+		"Version":{"_Major":1,"_Minor":7,"_Build":2,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"Added TypeName Attribute for Adeptive Components",
-		"Version":{"_Major":1,"_Minor":7,"_Build":1,"_Revision":0}
+		"Description":"Fixed empty Force Attributes",
+		"Version":{"_Major":1,"_Minor":7,"_Build":2,"_Revision":0}
 	},
 	
 	"sap-17" :
@@ -55,8 +55,8 @@
 	
 	"excel-2013" :
 	{
-		"Description":"Fixed Empty Cell Titles",
-		"Version":{"_Major":1,"_Minor":7,"_Build":1,"_Revision":0}
+		"Description":"Fixed Wall Profile Updates",
+		"Version":{"_Major":1,"_Minor":7,"_Build":2,"_Revision":0}
 	},
 	
 	"ram-00" :
