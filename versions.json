@@ -1,85 +1,85 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Improved Revit Etabs and SAP interop",
-		"Version":{"_Major":1,"_Minor":7,"_Build":3,"_Revision":0}
+		"Description":"Added SlabShapePoints and fixed Splines",
+		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Improved Revit Etabs and SAP interop",
-		"Version":{"_Major":1,"_Minor":7,"_Build":3,"_Revision":0}
+		"Description":"Added SlabShapePoints and fixed Splines",
+		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"Improved Revit Etabs and SAP interop",
-		"Version":{"_Major":1,"_Minor":7,"_Build":3,"_Revision":0}
+		"Description":"Added SlabShapePoints and fixed Splines",
+		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
 	},
 	
 	"sap-17" :
 	{
-		"Description":"Improved Revit Etabs and SAP interop",
-		"Version":{"_Major":1,"_Minor":7,"_Build":3,"_Revision":0}
+		"Description":"Added Gridlines",
+		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
 	},
 	
 	"sap-18" :
 	{
-		"Description":"Improved Revit Etabs and SAP interop",
-		"Version":{"_Major":1,"_Minor":7,"_Build":3,"_Revision":0}
+		"Description":"Added Gridlines",
+		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
 	},
 	
 	"sap-19" :
 	{
-		"Description":"Improved Revit Etabs and SAP interop",
-		"Version":{"_Major":1,"_Minor":7,"_Build":3,"_Revision":0}
+		"Description":"Added Gridlines",
+		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
 	},
 	
 	"grasshopper-1" :
 	{
-		"Description":"Added optional name inputs for profiles",
-		"Version":{"_Major":1,"_Minor":7,"_Build":3,"_Revision":0}
+		"Description":"Updated Konstru Core",
+		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
 	},
 	
 	"etabs-2015" :
 	{
-		"Description":"Improved Revit Etabs and SAP interop",
-		"Version":{"_Major":1,"_Minor":7,"_Build":3,"_Revision":0}
+		"Description":"Added Gridlines",
+		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
-		"Description":"Improved Revit Etabs and SAP interop",
-		"Version":{"_Major":1,"_Minor":7,"_Build":3,"_Revision":0}
+		"Description":"Added Gridlines",
+		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
 	},
 	
 	"excel-2013" :
 	{
-		"Description":"Improved Wall profile changes",
-		"Version":{"_Major":1,"_Minor":7,"_Build":3,"_Revision":0}
+		"Description":"Fixed Floor Coordinates",
+		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
 	},
 	
 	"ram-00" :
 	{
-		"Description":"New Mapping features",
-		"Version":{"_Major":1,"_Minor":7,"_Build":3,"_Revision":0}
+		"Description":"Updated Konstru Core",
+		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
 	},
 	
 	"tekla-20" :
 	{
-		"Description":"New Mapping features",
-		"Version":{"_Major":1,"_Minor":7,"_Build":3,"_Revision":0}
+		"Description":"Updated Konstru Core",
+		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
 	},
 	
 	"tekla-21" :
 	{
-		"Description":"New Mapping features",
-		"Version":{"_Major":1,"_Minor":7,"_Build":3,"_Revision":0}
+		"Description":"Updated Konstru Core",
+		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
 	},
 	
 	"tekla-2016i" :
 	{
-		"Description":"New Mapping features",
-		"Version":{"_Major":1,"_Minor":7,"_Build":3,"_Revision":0}
+		"Description":"Updated Konstru Core",
+		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
 	}
 }
