@@ -1,85 +1,85 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Added SlabShapePoints and fixed Splines",
-		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
+		"Description":"Added RAM Loads",
+		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Added SlabShapePoints and fixed Splines",
-		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
+		"Description":"Added RAM Loads",
+		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"Added SlabShapePoints and fixed Splines",
-		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
+		"Description":"Added RAM Loads",
+		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
 	},
 	
 	"sap-17" :
 	{
-		"Description":"Added Gridlines",
-		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
+		"Description":"Fixed updating loads",
+		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
 	},
 	
 	"sap-18" :
 	{
-		"Description":"Added Gridlines",
-		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
+		"Description":"Fixed updating loads",
+		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
 	},
 	
 	"sap-19" :
 	{
-		"Description":"Added Gridlines",
-		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
+		"Description":"Fixed updating loads",
+		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
 	},
 	
 	"grasshopper-1" :
 	{
-		"Description":"Updated Konstru Core",
-		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
+		"Description":"Added info to RAM loads",
+		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
 	},
 	
 	"etabs-2015" :
 	{
-		"Description":"Added Gridlines",
-		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
+		"Description":"Fixed updating loads",
+		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
-		"Description":"Added Gridlines",
-		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
+		"Description":"Fixed updating loads",
+		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
 	},
 	
 	"excel-2013" :
 	{
-		"Description":"Fixed Floor Coordinates",
-		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
+		"Description":"Konstru Core changes",
+		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
 	},
 	
 	"ram-00" :
 	{
-		"Description":"Updated Konstru Core",
-		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
+		"Description":"Fixed updating elements",
+		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
 	},
 	
 	"tekla-20" :
 	{
-		"Description":"Updated Konstru Core",
-		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
+		"Description":"Fixed updating elements",
+		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
 	},
 	
 	"tekla-21" :
 	{
-		"Description":"Updated Konstru Core",
-		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
+		"Description":"Fixed updating elements",
+		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
 	},
 	
 	"tekla-2016i" :
 	{
-		"Description":"Updated Konstru Core",
-		"Version":{"_Major":1,"_Minor":7,"_Build":4,"_Revision":0}
+		"Description":"Fixed updating elements",
+		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
 	}
 }
