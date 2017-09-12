@@ -2,84 +2,84 @@
 	"revit-2016" : 
 	{
 		"Description":"Added RAM Loads",
-		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
 		"Description":"Added RAM Loads",
-		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
 		"Description":"Added RAM Loads",
-		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
 	},
 	
 	"sap-17" :
 	{
 		"Description":"Fixed updating loads",
-		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
 	},
 	
 	"sap-18" :
 	{
 		"Description":"Fixed updating loads",
-		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
 	},
 	
 	"sap-19" :
 	{
 		"Description":"Fixed updating loads",
-		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
 	},
 	
 	"grasshopper-1" :
 	{
 		"Description":"Added info to RAM loads",
-		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
 	},
 	
 	"etabs-2015" :
 	{
 		"Description":"Fixed updating loads",
-		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
 		"Description":"Fixed updating loads",
-		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
 	},
 	
 	"excel-2013" :
 	{
 		"Description":"Konstru Core changes",
-		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
 	},
 	
 	"ram-00" :
 	{
 		"Description":"Fixed updating elements",
-		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
 	},
 	
 	"tekla-20" :
 	{
 		"Description":"Fixed updating elements",
-		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
 	},
 	
 	"tekla-21" :
 	{
 		"Description":"Fixed updating elements",
-		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
 	},
 	
 	"tekla-2016i" :
 	{
 		"Description":"Fixed updating elements",
-		"Version":{"_Major":1,"_Minor":7,"_Build":5,"_Revision":0}
+		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
 	}
 }
