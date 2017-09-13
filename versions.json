@@ -1,20 +1,20 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Added RAM Loads",
-		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
+		"Description":"Hotfix for custom hollow sections",
+		"Version":{"_Major":1,"_Minor":7,"_Build":7,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Added RAM Loads",
-		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
+		"Description":"Hotfix for custom hollow sections",
+		"Version":{"_Major":1,"_Minor":7,"_Build":7,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"Added RAM Loads",
-		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
+		"Description":"Hotfix for custom hollow sections",
+		"Version":{"_Major":1,"_Minor":7,"_Build":7,"_Revision":0}
 	},
 	
 	"sap-17" :
