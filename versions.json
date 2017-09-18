@@ -19,20 +19,20 @@
 	
 	"sap-17" :
 	{
-		"Description":"Fixed updating loads",
-		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
+		"Description":"Malformed Gridlines Fix",
+		"Version":{"_Major":1,"_Minor":7,"_Build":7,"_Revision":0}
 	},
 	
 	"sap-18" :
 	{
-		"Description":"Fixed updating loads",
-		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
+		"Description":"Malformed Gridlines Fix",
+		"Version":{"_Major":1,"_Minor":7,"_Build":7,"_Revision":0}
 	},
 	
 	"sap-19" :
 	{
-		"Description":"Fixed updating loads",
-		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
+		"Description":"Malformed Gridlines Fix",
+		"Version":{"_Major":1,"_Minor":7,"_Build":7,"_Revision":0}
 	},
 	
 	"grasshopper-1" :
@@ -43,14 +43,14 @@
 	
 	"etabs-2015" :
 	{
-		"Description":"Fixed updating loads",
-		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
+		"Description":"Malformed Gridlines Fix",
+		"Version":{"_Major":1,"_Minor":7,"_Build":7,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
-		"Description":"Fixed updating loads",
-		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
+		"Description":"Malformed Gridlines Fix",
+		"Version":{"_Major":1,"_Minor":7,"_Build":7,"_Revision":0}
 	},
 	
 	"excel-2013" :
