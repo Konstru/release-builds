@@ -1,20 +1,20 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Hotfix for custom wall profiles",
-		"Version":{"_Major":1,"_Minor":7,"_Build":9,"_Revision":0}
+		"Description":"Hotfix for performance",
+		"Version":{"_Major":1,"_Minor":8,"_Build":0,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Hotfix for custom wall profiles",
-		"Version":{"_Major":1,"_Minor":7,"_Build":9,"_Revision":0}
+		"Description":"Hotfix for performance",
+		"Version":{"_Major":1,"_Minor":8,"_Build":0,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"Hotfix for custom wall profiles",
-		"Version":{"_Major":1,"_Minor":7,"_Build":9,"_Revision":0}
+		"Description":"Hotfix for performance",
+		"Version":{"_Major":1,"_Minor":8,"_Build":0,"_Revision":0}
 	},
 	
 	"sap-17" :
