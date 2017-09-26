@@ -1,85 +1,85 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Hotfix for uploading Comments and Mark",
-		"Version":{"_Major":1,"_Minor":8,"_Build":1,"_Revision":0}
+		"Description":"Upload large models working better",
+		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Hotfix for uploading Comments and Mark",
-		"Version":{"_Major":1,"_Minor":8,"_Build":1,"_Revision":0}
+		"Description":"Upload large models working better",
+		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"Hotfix for uploading Comments and Mark",
-		"Version":{"_Major":1,"_Minor":8,"_Build":1,"_Revision":0}
+		"Description":"Upload large models working better",
+		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
 	},
 	
 	"sap-17" :
 	{
-		"Description":"Malformed Gridlines Fix",
-		"Version":{"_Major":1,"_Minor":7,"_Build":7,"_Revision":0}
+		"Description":"Upload large models working better",
+		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
 	},
 	
 	"sap-18" :
 	{
-		"Description":"Malformed Gridlines Fix",
-		"Version":{"_Major":1,"_Minor":7,"_Build":7,"_Revision":0}
+		"Description":"Upload large models working better",
+		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
 	},
 	
 	"sap-19" :
 	{
-		"Description":"Malformed Gridlines Fix",
-		"Version":{"_Major":1,"_Minor":7,"_Build":7,"_Revision":0}
+		"Description":"Upload large models working better",
+		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
 	},
 	
 	"grasshopper-1" :
 	{
-		"Description":"Added info to RAM loads",
-		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
+		"Description":"Upload large models working better",
+		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
 	},
 	
 	"etabs-2015" :
 	{
-		"Description":"Malformed Gridlines Fix",
-		"Version":{"_Major":1,"_Minor":7,"_Build":7,"_Revision":0}
+		"Description":"Upload large models working better",
+		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
-		"Description":"Malformed Gridlines Fix",
-		"Version":{"_Major":1,"_Minor":7,"_Build":7,"_Revision":0}
+		"Description":"Upload large models working better",
+		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
 	},
 	
 	"excel-2013" :
 	{
-		"Description":"Konstru Core changes",
-		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
+		"Description":"Upload large models working better",
+		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
 	},
 	
 	"ram-00" :
 	{
-		"Description":"Fixed updating elements",
-		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
+		"Description":"Upload large models working better",
+		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
 	},
 	
 	"tekla-20" :
 	{
-		"Description":"Fixed updating elements",
-		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
+		"Description":"Upload large models working better",
+		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
 	},
 	
 	"tekla-21" :
 	{
-		"Description":"Fixed updating elements",
-		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
+		"Description":"Upload large models working better",
+		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
 	},
 	
 	"tekla-2016i" :
 	{
-		"Description":"Fixed updating elements",
-		"Version":{"_Major":1,"_Minor":7,"_Build":6,"_Revision":0}
+		"Description":"Upload large models working better",
+		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
 	}
 }
