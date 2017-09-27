@@ -1,20 +1,20 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Upload large models working better",
-		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
+		"Description":"Fixing Issues with SlabFoundation Floor Types",
+		"Version":{"_Major":1,"_Minor":9,"_Build":1,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Upload large models working better",
-		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
+		"Description":"Fixing Issues with SlabFoundation Floor Types",
+		"Version":{"_Major":1,"_Minor":9,"_Build":1,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"Upload large models working better",
-		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
+		"Description":"Fixing Issues with SlabFoundation Floor Types",
+		"Version":{"_Major":1,"_Minor":9,"_Build":1,"_Revision":0}
 	},
 	
 	"sap-17" :
