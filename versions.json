@@ -1,20 +1,20 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Fixing Issues with SlabFoundation Floor Types",
-		"Version":{"_Major":1,"_Minor":9,"_Build":1,"_Revision":0}
+		"Description":"Fixing Verify Settings Unit Issue",
+		"Version":{"_Major":1,"_Minor":9,"_Build":2,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Fixing Issues with SlabFoundation Floor Types",
-		"Version":{"_Major":1,"_Minor":9,"_Build":1,"_Revision":0}
+		"Description":"Fixing Verify Settings Unit Issue",
+		"Version":{"_Major":1,"_Minor":9,"_Build":2,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"Fixing Issues with SlabFoundation Floor Types",
-		"Version":{"_Major":1,"_Minor":9,"_Build":1,"_Revision":0}
+		"Description":"Fixing Verify Settings Unit Issue",
+		"Version":{"_Major":1,"_Minor":9,"_Build":2,"_Revision":0}
 	},
 	
 	"sap-17" :
