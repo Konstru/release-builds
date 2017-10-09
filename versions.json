@@ -1,85 +1,85 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Added Geo Alignment Parameter Handler",
-		"Version":{"_Major":1,"_Minor":9,"_Build":3,"_Revision":0}
+		"Description":"Performance Improvements",
+		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Added Geo Alignment Parameter Handler",
-		"Version":{"_Major":1,"_Minor":9,"_Build":3,"_Revision":0}
+		"Description":"Performance Improvements",
+		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"Added Geo Alignment Parameter Handler",
-		"Version":{"_Major":1,"_Minor":9,"_Build":3,"_Revision":0}
+		"Description":"Performance Improvements",
+		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
 	},
 	
 	"sap-17" :
 	{
-		"Description":"Upload large models working better",
-		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
+		"Description":"Performance Improvements",
+		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
 	},
 	
 	"sap-18" :
 	{
-		"Description":"Upload large models working better",
-		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
+		"Description":"Performance Improvements",
+		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
 	},
 	
 	"sap-19" :
 	{
-		"Description":"Upload large models working better",
-		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
+		"Description":"Performance Improvements",
+		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
 	},
 	
 	"grasshopper-1" :
 	{
-		"Description":"Upload large models working better",
-		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
+		"Description":"Performance Improvements, new components",
+		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
 	},
 	
 	"etabs-2015" :
 	{
-		"Description":"Upload large models working better",
-		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
+		"Description":"New Join feature",
+		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
-		"Description":"Upload large models working better",
-		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
+		"Description":"New Join feature",
+		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
 	},
 	
 	"excel-2013" :
 	{
-		"Description":"Upload large models working better",
-		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
+		"Description":"Performance Improvements",
+		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
 	},
 	
 	"ram-00" :
 	{
-		"Description":"Upload large models working better",
-		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
+		"Description":"Improved Level Creation",
+		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
 	},
 	
 	"tekla-20" :
 	{
-		"Description":"Upload large models working better",
-		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
+		"Description":"Performance Improvements",
+		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
 	},
 	
 	"tekla-21" :
 	{
-		"Description":"Upload large models working better",
-		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
+		"Description":"Performance Improvements",
+		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
 	},
 	
 	"tekla-2016i" :
 	{
-		"Description":"Upload large models working better",
-		"Version":{"_Major":1,"_Minor":9,"_Build":0,"_Revision":0}
+		"Description":"Performance Improvements",
+		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
 	}
 }
