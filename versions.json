@@ -1,8 +1,8 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Performance Improvements",
-		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
+		"Description":"German Environment Adaptations",
+		"Version":{"_Major":1,"_Minor":9,"_Build":6,"_Revision":0}
 	},
 	
 	"revit-2017" :
