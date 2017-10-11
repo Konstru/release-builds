@@ -1,20 +1,20 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"International Environment Adaptations",
-		"Version":{"_Major":1,"_Minor":9,"_Build":7,"_Revision":0}
+		"Description":"Revit Connection Logging Improved",
+		"Version":{"_Major":1,"_Minor":9,"_Build":8,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"International Environment Adaptations",
-		"Version":{"_Major":1,"_Minor":9,"_Build":7,"_Revision":0}
+		"Description":"Revit Connection Logging Improved",
+		"Version":{"_Major":1,"_Minor":9,"_Build":8,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"International Environment Adaptations",
-		"Version":{"_Major":1,"_Minor":9,"_Build":7,"_Revision":0}
+		"Description":"Revit Connection Logging Improved",
+		"Version":{"_Major":1,"_Minor":9,"_Build":8,"_Revision":0}
 	},
 	
 	"sap-17" :
