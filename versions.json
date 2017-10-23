@@ -1,85 +1,85 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Revit International Environment Adaptations",
-		"Version":{"_Major":1,"_Minor":9,"_Build":9,"_Revision":0}
+		"Description":"Revit Wall Openings Added",
+		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Revit International Environment Adaptations",
-		"Version":{"_Major":1,"_Minor":9,"_Build":9,"_Revision":0}
+		"Description":"Revit Wall Openings Added",
+		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"Revit International Environment Adaptations",
-		"Version":{"_Major":1,"_Minor":9,"_Build":9,"_Revision":0}
+		"Description":"Revit Wall Openings Added",
+		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
 	},
 	
 	"sap-17" :
 	{
-		"Description":"Performance Improvements",
-		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
+		"Description":"Konstru Core Updates",
+		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
 	},
 	
 	"sap-18" :
 	{
-		"Description":"Performance Improvements",
-		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
+		"Description":"Konstru Core Updates",
+		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
 	},
 	
 	"sap-19" :
 	{
-		"Description":"Performance Improvements",
-		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
+		"Description":"Konstru Core Updates",
+		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
 	},
 	
 	"grasshopper-1" :
 	{
-		"Description":"Performance Improvements, new components",
-		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
+		"Description":"Revit Wall Openings Added",
+		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
 	},
 	
 	"etabs-2015" :
 	{
-		"Description":"New Join feature",
-		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
+		"Description":"Konstru Core Updates",
+		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
-		"Description":"New Join feature",
-		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
+		"Description":"Konstru Core Updates",
+		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
 	},
 	
 	"excel-2013" :
 	{
-		"Description":"Performance Improvements",
-		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
+		"Description":"Konstru Core Updates",
+		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
 	},
 	
 	"ram-00" :
 	{
-		"Description":"Improved Level Creation",
-		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
+		"Description":"Konstru Core Updates",
+		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
 	},
 	
 	"tekla-20" :
 	{
-		"Description":"Performance Improvements",
-		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
+		"Description":"Konstru Core Updates",
+		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
 	},
 	
 	"tekla-21" :
 	{
-		"Description":"Performance Improvements",
-		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
+		"Description":"Konstru Core Updates",
+		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
 	},
 	
 	"tekla-2016i" :
 	{
-		"Description":"Performance Improvements",
-		"Version":{"_Major":1,"_Minor":9,"_Build":5,"_Revision":0}
+		"Description":"Konstru Core Updates",
+		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
 	}
 }
