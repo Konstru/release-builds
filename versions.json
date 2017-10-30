@@ -1,85 +1,85 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Revit Wall Openings Added",
-		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
+		"Description":"General Rotations Update",
+		"Version":{"_Major":2,"_Minor":0,"_Build":0,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Revit Wall Openings Added",
-		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
+		"Description":"General Rotations Update",
+		"Version":{"_Major":2,"_Minor":0,"_Build":0,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"Revit Wall Openings Added",
-		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
+		"Description":"General Rotations Update",
+		"Version":{"_Major":2,"_Minor":0,"_Build":0,"_Revision":0}
 	},
 	
 	"sap-17" :
 	{
-		"Description":"Konstru Core Updates",
-		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
+		"Description":"General Rotations Update",
+		"Version":{"_Major":2,"_Minor":0,"_Build":0,"_Revision":0}
 	},
 	
 	"sap-18" :
 	{
-		"Description":"Konstru Core Updates",
-		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
+		"Description":"General Rotations Update",
+		"Version":{"_Major":2,"_Minor":0,"_Build":0,"_Revision":0}
 	},
 	
 	"sap-19" :
 	{
-		"Description":"Konstru Core Updates",
-		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
+		"Description":"General Rotations Update",
+		"Version":{"_Major":2,"_Minor":0,"_Build":0,"_Revision":0}
 	},
 	
 	"grasshopper-1" :
 	{
-		"Description":"Revit Wall Openings Added",
-		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
+		"Description":"General Rotations Update",
+		"Version":{"_Major":2,"_Minor":0,"_Build":0,"_Revision":0}
 	},
 	
 	"etabs-2015" :
 	{
-		"Description":"Konstru Core Updates",
-		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
+		"Description":"General Rotations Update",
+		"Version":{"_Major":2,"_Minor":0,"_Build":0,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
-		"Description":"Konstru Core Updates",
-		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
+		"Description":"General Rotations Update",
+		"Version":{"_Major":2,"_Minor":0,"_Build":0,"_Revision":0}
 	},
 	
 	"excel-2013" :
 	{
-		"Description":"Konstru Core Updates",
-		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
+		"Description":"General Rotations Update",
+		"Version":{"_Major":2,"_Minor":0,"_Build":0,"_Revision":0}
 	},
 	
 	"ram-00" :
 	{
-		"Description":"Konstru Core Updates",
-		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
+		"Description":"General Rotations Update",
+		"Version":{"_Major":2,"_Minor":0,"_Build":0,"_Revision":0}
 	},
 	
 	"tekla-20" :
 	{
-		"Description":"Konstru Core Updates",
-		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
+		"Description":"General Rotations Update",
+		"Version":{"_Major":2,"_Minor":0,"_Build":0,"_Revision":0}
 	},
 	
 	"tekla-21" :
 	{
-		"Description":"Konstru Core Updates",
-		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
+		"Description":"General Rotations Update",
+		"Version":{"_Major":2,"_Minor":0,"_Build":0,"_Revision":0}
 	},
 	
 	"tekla-2016i" :
 	{
-		"Description":"Konstru Core Updates",
-		"Version":{"_Major":1,"_Minor":9,"_Build":10,"_Revision":0}
+		"Description":"General Rotations Update",
+		"Version":{"_Major":2,"_Minor":0,"_Build":0,"_Revision":0}
 	}
 }
