@@ -20,19 +20,19 @@
 	"sap-17" :
 	{
 		"Description":"Filter Groups on Upload added",
-		"Version":{"_Major":2,"_Minor":0,"_Build":2,"_Revision":0}
+		"Version":{"_Major":2,"_Minor":0,"_Build":3,"_Revision":0}
 	},
 	
 	"sap-18" :
 	{
 		"Description":"Filter Groups on Upload added",
-		"Version":{"_Major":2,"_Minor":0,"_Build":2,"_Revision":0}
+		"Version":{"_Major":2,"_Minor":0,"_Build":3,"_Revision":0}
 	},
 	
 	"sap-19" :
 	{
 		"Description":"Filter Groups on Upload added",
-		"Version":{"_Major":2,"_Minor":0,"_Build":2,"_Revision":0}
+		"Version":{"_Major":2,"_Minor":0,"_Build":3,"_Revision":0}
 	},
 	
 	"grasshopper-1" :
@@ -44,13 +44,13 @@
 	"etabs-2015" :
 	{
 		"Description":"Filter Groups on Upload added",
-		"Version":{"_Major":2,"_Minor":0,"_Build":2,"_Revision":0}
+		"Version":{"_Major":2,"_Minor":0,"_Build":3,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
 		"Description":"Filter Groups on Upload added",
-		"Version":{"_Major":2,"_Minor":0,"_Build":2,"_Revision":0}
+		"Version":{"_Major":2,"_Minor":0,"_Build":3,"_Revision":0}
 	},
 	
 	"excel-2013" :
