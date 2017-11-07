@@ -1,62 +1,62 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Filter Groups on Upload added",
-		"Version":{"_Major":2,"_Minor":0,"_Build":2,"_Revision":0}
+		"Description":"Added Revit Errors to Logs",
+		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Filter Groups on Upload added",
-		"Version":{"_Major":2,"_Minor":0,"_Build":2,"_Revision":0}
+		"Description":"Added Revit Errors to Logs",
+		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"Filter Groups on Upload added",
-		"Version":{"_Major":2,"_Minor":0,"_Build":2,"_Revision":0}
+		"Description":"Added Revit Errors to Logs",
+		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
 	},
 	
 	"sap-17" :
 	{
-		"Description":"Filter Groups on Upload added",
-		"Version":{"_Major":2,"_Minor":0,"_Build":3,"_Revision":0}
+		"Description":"Fixed Attribute Updates",
+		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
 	},
 	
 	"sap-18" :
 	{
-		"Description":"Filter Groups on Upload added",
-		"Version":{"_Major":2,"_Minor":0,"_Build":3,"_Revision":0}
+		"Description":"Fixed Attribute Updates",
+		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
 	},
 	
 	"sap-19" :
 	{
-		"Description":"Filter Groups on Upload added",
-		"Version":{"_Major":2,"_Minor":0,"_Build":3,"_Revision":0}
+		"Description":"Fixed Attribute Updates",
+		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
 	},
 	
 	"grasshopper-1" :
 	{
-		"Description":"General Rotations Update",
-		"Version":{"_Major":2,"_Minor":0,"_Build":2,"_Revision":0}
+		"Description":"Fixed Attribute Updates",
+		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
 	},
 	
 	"etabs-2015" :
 	{
-		"Description":"Filter Groups on Upload added",
-		"Version":{"_Major":2,"_Minor":0,"_Build":3,"_Revision":0}
+		"Description":"Fixed Attribute Updates",
+		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
-		"Description":"Filter Groups on Upload added",
-		"Version":{"_Major":2,"_Minor":0,"_Build":3,"_Revision":0}
+		"Description":"Fixed Attribute Updates",
+		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
 	},
 	
 	"excel-2013" :
 	{
-		"Description":"General Rotations Update",
-		"Version":{"_Major":2,"_Minor":0,"_Build":2,"_Revision":0}
+		"Description":"Fixed Attribute Updates",
+		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
 	},
 	
 	"ram-00" :
@@ -67,19 +67,19 @@
 	
 	"tekla-20" :
 	{
-		"Description":"General Rotations Update",
-		"Version":{"_Major":2,"_Minor":0,"_Build":2,"_Revision":0}
+		"Description":"Fixed Attribute Updates",
+		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
 	},
 	
 	"tekla-21" :
 	{
-		"Description":"General Rotations Update",
-		"Version":{"_Major":2,"_Minor":0,"_Build":2,"_Revision":0}
+		"Description":"Fixed Attribute Updates",
+		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
 	},
 	
 	"tekla-2016i" :
 	{
-		"Description":"General Rotations Update",
-		"Version":{"_Major":2,"_Minor":0,"_Build":2,"_Revision":0}
+		"Description":"Fixed Attribute Updates",
+		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
 	}
 }
