@@ -2,19 +2,19 @@
 	"revit-2016" : 
 	{
 		"Description":"Fixing Duplicate IDs after merging by Geometry",
-		"Version":{"_Major":2,"_Minor":0,"_Build":5,"_Revision":0}
+		"Version":{"_Major":2,"_Minor":0,"_Build":6,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
 		"Description":"Fixing Duplicate IDs after merging by Geometry",
-		"Version":{"_Major":2,"_Minor":0,"_Build":5,"_Revision":0}
+		"Version":{"_Major":2,"_Minor":0,"_Build":6,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
 		"Description":"Fixing Duplicate IDs after merging by Geometry",
-		"Version":{"_Major":2,"_Minor":0,"_Build":5,"_Revision":0}
+		"Version":{"_Major":2,"_Minor":0,"_Build":6,"_Revision":0}
 	},
 	
 	"sap-17" :
