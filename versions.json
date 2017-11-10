@@ -1,85 +1,85 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Added Revit Errors to Logs",
-		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
+		"Description":"Fixing Duplicate IDs after merging by Geometry",
+		"Version":{"_Major":2,"_Minor":0,"_Build":5,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Added Revit Errors to Logs",
-		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
+		"Description":"Fixing Duplicate IDs after merging by Geometry",
+		"Version":{"_Major":2,"_Minor":0,"_Build":5,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"Added Revit Errors to Logs",
-		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
+		"Description":"Fixing Duplicate IDs after merging by Geometry",
+		"Version":{"_Major":2,"_Minor":0,"_Build":5,"_Revision":0}
 	},
 	
 	"sap-17" :
 	{
-		"Description":"Fixed Attribute Updates",
-		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
+		"Description":"Fixing Duplicate IDs after merging by Geometry",
+		"Version":{"_Major":2,"_Minor":0,"_Build":5,"_Revision":0}
 	},
 	
 	"sap-18" :
 	{
-		"Description":"Fixed Attribute Updates",
-		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
+		"Description":"Fixing Duplicate IDs after merging by Geometry",
+		"Version":{"_Major":2,"_Minor":0,"_Build":5,"_Revision":0}
 	},
 	
 	"sap-19" :
 	{
-		"Description":"Fixed Attribute Updates",
-		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
+		"Description":"Fixing Duplicate IDs after merging by Geometry",
+		"Version":{"_Major":2,"_Minor":0,"_Build":5,"_Revision":0}
 	},
 	
 	"grasshopper-1" :
 	{
-		"Description":"Fixed Attribute Updates",
-		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
+		"Description":"Fixing Duplicate IDs after merging by Geometry",
+		"Version":{"_Major":2,"_Minor":0,"_Build":5,"_Revision":0}
 	},
 	
 	"etabs-2015" :
 	{
-		"Description":"Fixed Attribute Updates",
-		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
+		"Description":"Fixing Duplicate IDs after merging by Geometry",
+		"Version":{"_Major":2,"_Minor":0,"_Build":5,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
-		"Description":"Fixed Attribute Updates",
-		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
+		"Description":"Fixing Duplicate IDs after merging by Geometry",
+		"Version":{"_Major":2,"_Minor":0,"_Build":5,"_Revision":0}
 	},
 	
 	"excel-2013" :
 	{
-		"Description":"Fixed Attribute Updates",
-		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
+		"Description":"Fixing Duplicate IDs after merging by Geometry",
+		"Version":{"_Major":2,"_Minor":0,"_Build":5,"_Revision":0}
 	},
 	
 	"ram-00" :
 	{
-		"Description":"General Rotations Update",
-		"Version":{"_Major":2,"_Minor":0,"_Build":2,"_Revision":0}
+		"Description":"Fixing Duplicate IDs after merging by Geometry",
+		"Version":{"_Major":2,"_Minor":0,"_Build":5,"_Revision":0}
 	},
 	
 	"tekla-20" :
 	{
-		"Description":"Fixed Attribute Updates",
-		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
+		"Description":"Fixing Duplicate IDs after merging by Geometry",
+		"Version":{"_Major":2,"_Minor":0,"_Build":5,"_Revision":0}
 	},
 	
 	"tekla-21" :
 	{
-		"Description":"Fixed Attribute Updates",
-		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
+		"Description":"Fixing Duplicate IDs after merging by Geometry",
+		"Version":{"_Major":2,"_Minor":0,"_Build":5,"_Revision":0}
 	},
 	
 	"tekla-2016i" :
 	{
-		"Description":"Fixed Attribute Updates",
-		"Version":{"_Major":2,"_Minor":0,"_Build":4,"_Revision":0}
+		"Description":"Fixing Duplicate IDs after merging by Geometry",
+		"Version":{"_Major":2,"_Minor":0,"_Build":5,"_Revision":0}
 	}
 }
