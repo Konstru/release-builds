@@ -1,20 +1,20 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Added new Konstru Mapper",
-		"Version":{"_Major":2,"_Minor":0,"_Build":8,"_Revision":0}
+		"Description":"Lines added",
+		"Version":{"_Major":2,"_Minor":0,"_Build":9,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Added new Konstru Mapper",
-		"Version":{"_Major":2,"_Minor":0,"_Build":8,"_Revision":0}
+		"Description":"Lines added",
+		"Version":{"_Major":2,"_Minor":0,"_Build":9,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"Added new Konstru Mapper",
-		"Version":{"_Major":2,"_Minor":0,"_Build":8,"_Revision":0}
+		"Description":"Lines added",
+		"Version":{"_Major":2,"_Minor":0,"_Build":9,"_Revision":0}
 	},
 	
 	"sap-17" :
@@ -37,20 +37,20 @@
 	
 	"grasshopper-1" :
 	{
-		"Description":"Added new Konstru Mapper",
-		"Version":{"_Major":2,"_Minor":0,"_Build":8,"_Revision":0}
+		"Description":"Lines added",
+		"Version":{"_Major":2,"_Minor":0,"_Build":9,"_Revision":0}
 	},
 	
 	"etabs-2015" :
 	{
-		"Description":"Added new Konstru Mapper",
-		"Version":{"_Major":2,"_Minor":0,"_Build":8,"_Revision":0}
+		"Description":"Lines added",
+		"Version":{"_Major":2,"_Minor":0,"_Build":9,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
-		"Description":"Added new Konstru Mapper",
-		"Version":{"_Major":2,"_Minor":0,"_Build":8,"_Revision":0}
+		"Description":"Lines added",
+		"Version":{"_Major":2,"_Minor":0,"_Build":9,"_Revision":0}
 	},
 	
 	"excel-2013" :
