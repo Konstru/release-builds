@@ -1,20 +1,20 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Lines added",
-		"Version":{"_Major":2,"_Minor":0,"_Build":9,"_Revision":0}
+		"Description":"Analytical Floor Outlines fixed",
+		"Version":{"_Major":2,"_Minor":0,"_Build":10,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Lines added",
-		"Version":{"_Major":2,"_Minor":0,"_Build":9,"_Revision":0}
+		"Description":"Analytical Floor Outlines fixed",
+		"Version":{"_Major":2,"_Minor":0,"_Build":10,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"Lines added",
-		"Version":{"_Major":2,"_Minor":0,"_Build":9,"_Revision":0}
+		"Description":"Analytical Floor Outlines fixed",
+		"Version":{"_Major":2,"_Minor":0,"_Build":10,"_Revision":0}
 	},
 	
 	"sap-17" :
