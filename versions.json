@@ -43,14 +43,14 @@
 	
 	"etabs-2015" :
 	{
-		"Description":"Lines added",
-		"Version":{"_Major":2,"_Minor":0,"_Build":9,"_Revision":0}
+		"Description":"Fixed mixed joining",
+		"Version":{"_Major":2,"_Minor":0,"_Build":11,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
-		"Description":"Lines added",
-		"Version":{"_Major":2,"_Minor":0,"_Build":9,"_Revision":0}
+		"Description":"Fixed mixed joining",
+		"Version":{"_Major":2,"_Minor":0,"_Build":11,"_Revision":0}
 	},
 	
 	"excel-2013" :
