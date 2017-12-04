@@ -37,8 +37,8 @@
 	
 	"grasshopper-1" :
 	{
-		"Description":"Lines added",
-		"Version":{"_Major":2,"_Minor":0,"_Build":9,"_Revision":0}
+		"Description":"Floor Outlines fixed",
+		"Version":{"_Major":2,"_Minor":0,"_Build":11,"_Revision":0}
 	},
 	
 	"etabs-2015" :
