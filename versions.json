@@ -1,20 +1,20 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Very short outlines fixed",
-		"Version":{"_Major":2,"_Minor":0,"_Build":11,"_Revision":0}
+		"Description":"Splines improved",
+		"Version":{"_Major":2,"_Minor":0,"_Build":13,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Very short outlines fixed",
-		"Version":{"_Major":2,"_Minor":0,"_Build":11,"_Revision":0}
+		"Description":"Splines improved",
+		"Version":{"_Major":2,"_Minor":0,"_Build":13,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"Very short outlines fixed",
-		"Version":{"_Major":2,"_Minor":0,"_Build":11,"_Revision":0}
+		"Description":"Splines improved",
+		"Version":{"_Major":2,"_Minor":0,"_Build":13,"_Revision":0}
 	},
 	
 	"sap-17" :
@@ -37,8 +37,8 @@
 	
 	"grasshopper-1" :
 	{
-		"Description":"Floor Outlines fixed",
-		"Version":{"_Major":2,"_Minor":0,"_Build":11,"_Revision":0}
+		"Description":"Splines improved",
+		"Version":{"_Major":2,"_Minor":0,"_Build":13,"_Revision":0}
 	},
 	
 	"etabs-2015" :
