@@ -1,56 +1,56 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Splines improved",
-		"Version":{"_Major":2,"_Minor":0,"_Build":13,"_Revision":0}
+		"Description":"Improved Revit Speed",
+		"Version":{"_Major":2,"_Minor":0,"_Build":14,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Splines improved",
-		"Version":{"_Major":2,"_Minor":0,"_Build":13,"_Revision":0}
+		"Description":"Improved Revit Speed",
+		"Version":{"_Major":2,"_Minor":0,"_Build":14,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"Splines improved",
-		"Version":{"_Major":2,"_Minor":0,"_Build":13,"_Revision":0}
+		"Description":"Improved Revit Speed",
+		"Version":{"_Major":2,"_Minor":0,"_Build":14,"_Revision":0}
 	},
 	
 	"sap-17" :
 	{
-		"Description":"Added new Konstru Mapper",
-		"Version":{"_Major":2,"_Minor":0,"_Build":8,"_Revision":0}
+		"Description":"Removed Structural Usage",
+		"Version":{"_Major":2,"_Minor":0,"_Build":14,"_Revision":0}
 	},
 	
 	"sap-18" :
 	{
-		"Description":"Added new Konstru Mapper",
-		"Version":{"_Major":2,"_Minor":0,"_Build":8,"_Revision":0}
+		"Description":"Removed Structural Usage",
+		"Version":{"_Major":2,"_Minor":0,"_Build":14,"_Revision":0}
 	},
 	
 	"sap-19" :
 	{
-		"Description":"Added new Konstru Mapper",
-		"Version":{"_Major":2,"_Minor":0,"_Build":8,"_Revision":0}
+		"Description":"Removed Structural Usage",
+		"Version":{"_Major":2,"_Minor":0,"_Build":14,"_Revision":0}
 	},
 	
 	"grasshopper-1" :
 	{
-		"Description":"Splines improved",
-		"Version":{"_Major":2,"_Minor":0,"_Build":13,"_Revision":0}
+		"Description":"Extrusion Directions fixed",
+		"Version":{"_Major":2,"_Minor":0,"_Build":14,"_Revision":0}
 	},
 	
 	"etabs-2015" :
 	{
-		"Description":"Fixed mixed joining",
-		"Version":{"_Major":2,"_Minor":0,"_Build":11,"_Revision":0}
+		"Description":"Removed Structural Usage",
+		"Version":{"_Major":2,"_Minor":0,"_Build":14,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
-		"Description":"Fixed mixed joining",
-		"Version":{"_Major":2,"_Minor":0,"_Build":11,"_Revision":0}
+		"Description":"Removed Structural Usage",
+		"Version":{"_Major":2,"_Minor":0,"_Build":14,"_Revision":0}
 	},
 	
 	"excel-2013" :
