@@ -1,91 +1,91 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Point based Columns improved",
-		"Version":{"_Major":2,"_Minor":1,"_Build":1,"_Revision":0}
+		"Description":"Tapered Sections Support",
+		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Point based Columns improved",
-		"Version":{"_Major":2,"_Minor":1,"_Build":1,"_Revision":0}
+		"Description":"Tapered Sections Support",
+		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"Point based Columns improved",
-		"Version":{"_Major":2,"_Minor":1,"_Build":1,"_Revision":0}
+		"Description":"Tapered Sections Support",
+		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
 	},
 	
 	"sap-17" :
 	{
-		"Description":"Filter Selection UI Update",
-		"Version":{"_Major":2,"_Minor":1,"_Build":0,"_Revision":0}
+		"Description":"Tapered Sections Support",
+		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
 	},
 	
 	"sap-18" :
 	{
-		"Description":"Filter Selection UI Update",
-		"Version":{"_Major":2,"_Minor":1,"_Build":0,"_Revision":0}
+		"Description":"Tapered Sections Support",
+		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
 	},
 	
 	"sap-19" :
 	{
-		"Description":"Filter Selection UI Update",
-		"Version":{"_Major":2,"_Minor":1,"_Build":0,"_Revision":0}
+		"Description":"Tapered Sections Support",
+		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
 	},
 	
 	"grasshopper-1" :
 	{
-		"Description":"Filter Selection UI Update",
-		"Version":{"_Major":2,"_Minor":1,"_Build":0,"_Revision":0}
+		"Description":"Tapered Sections Support",
+		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
 	},
 	
 	"etabs-2015" :
 	{
-		"Description":"Filter Selection UI Update",
-		"Version":{"_Major":2,"_Minor":1,"_Build":0,"_Revision":0}
+		"Description":"Tapered Sections Support",
+		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
-		"Description":"Filter Selection UI Update",
-		"Version":{"_Major":2,"_Minor":1,"_Build":0,"_Revision":0}
+		"Description":"Tapered Sections Support",
+		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
 	},
 	
 	"excel-2013" :
 	{
-		"Description":"Filter Selection UI Update",
-		"Version":{"_Major":2,"_Minor":1,"_Build":0,"_Revision":0}
+		"Description":"Tapered Sections Support",
+		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
 	},
 	
 	"ram-00" :
 	{
-		"Description":"Filter Selection UI Update",
-		"Version":{"_Major":2,"_Minor":1,"_Build":0,"_Revision":0}
+		"Description":"Tapered Sections Support",
+		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
 	},
 	
 	"tekla-20" :
 	{
-		"Description":"Filter Selection UI Update",
-		"Version":{"_Major":2,"_Minor":1,"_Build":0,"_Revision":0}
+		"Description":"Tapered Sections Support",
+		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
 	},
 	
 	"tekla-21" :
 	{
-		"Description":"Filter Selection UI Update",
-		"Version":{"_Major":2,"_Minor":1,"_Build":0,"_Revision":0}
+		"Description":"Tapered Sections Support",
+		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
 	},
 	
 	"tekla-2016i" :
 	{
-		"Description":"Filter Selection UI Update",
-		"Version":{"_Major":2,"_Minor":1,"_Build":0,"_Revision":0}
+		"Description":"Tapered Sections Support",
+		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
 	},
 	
 	"tekla-2017i" :
 	{
-		"Description":"Filter Selection UI Update",
-		"Version":{"_Major":2,"_Minor":1,"_Build":0,"_Revision":0}
+		"Description":"Tapered Sections Support",
+		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
 	}
 }
