@@ -1,20 +1,20 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Tapered Sections Support",
-		"Version":{"_Major":2,"_Minor":1,"_Build":3,"_Revision":0}
+		"Description":"Improved Mappers",
+		"Version":{"_Major":2,"_Minor":1,"_Build":4,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Tapered Sections Support",
-		"Version":{"_Major":2,"_Minor":1,"_Build":3,"_Revision":0}
+		"Description":"Improved Mappers",
+		"Version":{"_Major":2,"_Minor":1,"_Build":4,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"Tapered Sections Support",
-		"Version":{"_Major":2,"_Minor":1,"_Build":3,"_Revision":0}
+		"Description":"Improved Mappers",
+		"Version":{"_Major":2,"_Minor":1,"_Build":4,"_Revision":0}
 	},
 	
 	"sap-17" :
@@ -43,14 +43,14 @@
 	
 	"etabs-2015" :
 	{
-		"Description":"Tapered Sections Support",
-		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
+		"Description":"Shaft to Opening Converter",
+		"Version":{"_Major":2,"_Minor":1,"_Build":4,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
-		"Description":"Tapered Sections Support",
-		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
+		"Description":"Shaft to Opening Converter",
+		"Version":{"_Major":2,"_Minor":1,"_Build":4,"_Revision":0}
 	},
 	
 	"excel-2013" :
