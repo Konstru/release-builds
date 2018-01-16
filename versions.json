@@ -1,20 +1,20 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Improved Mappers",
-		"Version":{"_Major":2,"_Minor":1,"_Build":4,"_Revision":0}
+		"Description":"Tapered Sections Bugfix",
+		"Version":{"_Major":2,"_Minor":1,"_Build":5,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Improved Mappers",
-		"Version":{"_Major":2,"_Minor":1,"_Build":4,"_Revision":0}
+		"Description":"Tapered Sections Bugfix",
+		"Version":{"_Major":2,"_Minor":1,"_Build":5,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"Improved Mappers",
-		"Version":{"_Major":2,"_Minor":1,"_Build":4,"_Revision":0}
+		"Description":"Tapered Sections Bugfix",
+		"Version":{"_Major":2,"_Minor":1,"_Build":5,"_Revision":0}
 	},
 	
 	"sap-17" :
@@ -37,8 +37,8 @@
 	
 	"grasshopper-1" :
 	{
-		"Description":"Tapered Sections Support",
-		"Version":{"_Major":2,"_Minor":1,"_Build":4,"_Revision":0}
+		"Description":"Tapered Sections Bugfix",
+		"Version":{"_Major":2,"_Minor":1,"_Build":5,"_Revision":0}
 	},
 	
 	"etabs-2015" :
