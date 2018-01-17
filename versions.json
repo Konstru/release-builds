@@ -43,14 +43,14 @@
 	
 	"etabs-2015" :
 	{
-		"Description":"Shaft to Opening Converter",
-		"Version":{"_Major":2,"_Minor":1,"_Build":4,"_Revision":0}
+		"Description":"Update Floor Bugfix",
+		"Version":{"_Major":2,"_Minor":1,"_Build":5,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
-		"Description":"Shaft to Opening Converter",
-		"Version":{"_Major":2,"_Minor":1,"_Build":4,"_Revision":0}
+		"Description":"Update Floor Bugfix",
+		"Version":{"_Major":2,"_Minor":1,"_Build":5,"_Revision":0}
 	},
 	
 	"excel-2013" :
