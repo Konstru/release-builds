@@ -1,91 +1,91 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Tapered Sections Bugfix",
-		"Version":{"_Major":2,"_Minor":1,"_Build":5,"_Revision":0}
+		"Description":"Wall attachment solutions",
+		"Version":{"_Major":2,"_Minor":1,"_Build":6,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Tapered Sections Bugfix",
-		"Version":{"_Major":2,"_Minor":1,"_Build":5,"_Revision":0}
+		"Description":"Wall attachment solutions",
+		"Version":{"_Major":2,"_Minor":1,"_Build":6,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"Tapered Sections Bugfix",
-		"Version":{"_Major":2,"_Minor":1,"_Build":5,"_Revision":0}
+		"Description":"Wall attachment solutions",
+		"Version":{"_Major":2,"_Minor":1,"_Build":6,"_Revision":0}
 	},
 	
 	"sap-17" :
 	{
-		"Description":"Tapered Sections Support",
-		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
+		"Description":"Konstru Core Update",
+		"Version":{"_Major":2,"_Minor":1,"_Build":6,"_Revision":0}
 	},
 	
 	"sap-18" :
 	{
-		"Description":"Tapered Sections Support",
-		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
+		"Description":"Konstru Core Update",
+		"Version":{"_Major":2,"_Minor":1,"_Build":6,"_Revision":0}
 	},
 	
 	"sap-19" :
 	{
-		"Description":"Tapered Sections Support",
-		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
+		"Description":"Konstru Core Update",
+		"Version":{"_Major":2,"_Minor":1,"_Build":6,"_Revision":0}
 	},
 	
 	"grasshopper-1" :
 	{
-		"Description":"Tapered Sections Bugfix",
-		"Version":{"_Major":2,"_Minor":1,"_Build":5,"_Revision":0}
+		"Description":"Konstru Core Update",
+		"Version":{"_Major":2,"_Minor":1,"_Build":6,"_Revision":0}
 	},
 	
 	"etabs-2015" :
 	{
-		"Description":"Update Floor Bugfix",
-		"Version":{"_Major":2,"_Minor":1,"_Build":5,"_Revision":0}
+		"Description":"Konstru Core Update",
+		"Version":{"_Major":2,"_Minor":1,"_Build":6,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
-		"Description":"Update Floor Bugfix",
-		"Version":{"_Major":2,"_Minor":1,"_Build":5,"_Revision":0}
+		"Description":"Konstru Core Update",
+		"Version":{"_Major":2,"_Minor":1,"_Build":6,"_Revision":0}
 	},
 	
 	"excel-2013" :
 	{
-		"Description":"Tapered Sections Support",
-		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
+		"Description":"Added Modifiers in Excel",
+		"Version":{"_Major":2,"_Minor":1,"_Build":6,"_Revision":0}
 	},
 	
 	"ram-00" :
 	{
-		"Description":"Tapered Sections Support",
-		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
+		"Description":"Konstru Core Update",
+		"Version":{"_Major":2,"_Minor":1,"_Build":6,"_Revision":0}
 	},
 	
 	"tekla-20" :
 	{
-		"Description":"Tapered Sections Support",
-		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
+		"Description":"Konstru Core Update",
+		"Version":{"_Major":2,"_Minor":1,"_Build":6,"_Revision":0}
 	},
 	
 	"tekla-21" :
 	{
-		"Description":"Tapered Sections Support",
-		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
+		"Description":"Konstru Core Update",
+		"Version":{"_Major":2,"_Minor":1,"_Build":6,"_Revision":0}
 	},
 	
 	"tekla-2016i" :
 	{
-		"Description":"Tapered Sections Support",
-		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
+		"Description":"Konstru Core Update",
+		"Version":{"_Major":2,"_Minor":1,"_Build":6,"_Revision":0}
 	},
 	
 	"tekla-2017i" :
 	{
-		"Description":"Tapered Sections Support",
-		"Version":{"_Major":2,"_Minor":1,"_Build":2,"_Revision":0}
+		"Description":"Konstru Core Update",
+		"Version":{"_Major":2,"_Minor":1,"_Build":6,"_Revision":0}
 	}
 }
