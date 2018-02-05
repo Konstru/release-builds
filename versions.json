@@ -49,8 +49,8 @@
 	
 	"etabs-2016" :
 	{
-		"Description":"Konstru Core Update",
-		"Version":{"_Major":2,"_Minor":1,"_Build":6,"_Revision":0}
+		"Description":"Built using latest ETABS",
+		"Version":{"_Major":2,"_Minor":1,"_Build":7,"_Revision":0}
 	},
 	
 	"excel-2013" :
