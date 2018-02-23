@@ -67,25 +67,25 @@
 	
 	"tekla-20" :
 	{
-		"Description":"Studs and Cambers Added",
-		"Version":{"_Major":2,"_Minor":1,"_Build":9,"_Revision":0}
+		"Description":"Tekla Bounds & Forces Hotfix",
+		"Version":{"_Major":2,"_Minor":1,"_Build":10,"_Revision":0}
 	},
 	
 	"tekla-21" :
 	{
-		"Description":"Studs and Cambers Added",
-		"Version":{"_Major":2,"_Minor":1,"_Build":9,"_Revision":0}
+		"Description":"Tekla Bounds & Forces Hotfix",
+		"Version":{"_Major":2,"_Minor":1,"_Build":10,"_Revision":0}
 	},
 	
 	"tekla-2016i" :
 	{
-		"Description":"Studs and Cambers Added",
-		"Version":{"_Major":2,"_Minor":1,"_Build":9,"_Revision":0}
+		"Description":"Tekla Bounds & Forces Hotfix",
+		"Version":{"_Major":2,"_Minor":1,"_Build":10,"_Revision":0}
 	},
 	
 	"tekla-2017i" :
 	{
-		"Description":"Studs and Cambers Added",
-		"Version":{"_Major":2,"_Minor":1,"_Build":9,"_Revision":0}
+		"Description":"Tekla Bounds & Forces Hotfix",
+		"Version":{"_Major":2,"_Minor":1,"_Build":10,"_Revision":0}
 	}
 }
