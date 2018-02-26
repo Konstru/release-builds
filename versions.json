@@ -44,13 +44,13 @@
 	"etabs-2015" :
 	{
 		"Description":"Attribute Update Fixes",
-		"Version":{"_Major":2,"_Minor":1,"_Build":11,"_Revision":0}
+		"Version":{"_Major":2,"_Minor":1,"_Build":12,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
 		"Description":"Attribute Update Fixes",
-		"Version":{"_Major":2,"_Minor":1,"_Build":11,"_Revision":0}
+		"Version":{"_Major":2,"_Minor":1,"_Build":12,"_Revision":0}
 	},
 	
 	"excel-2013" :
