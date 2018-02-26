@@ -1,38 +1,38 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Studs and Cambers Added",
-		"Version":{"_Major":2,"_Minor":1,"_Build":9,"_Revision":0}
+		"Description":"Attribute Update Fixes",
+		"Version":{"_Major":2,"_Minor":1,"_Build":11,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Studs and Cambers Added",
-		"Version":{"_Major":2,"_Minor":1,"_Build":9,"_Revision":0}
+		"Description":"Attribute Update Fixes",
+		"Version":{"_Major":2,"_Minor":1,"_Build":11,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"Studs and Cambers Added",
-		"Version":{"_Major":2,"_Minor":1,"_Build":9,"_Revision":0}
+		"Description":"Attribute Update Fixes",
+		"Version":{"_Major":2,"_Minor":1,"_Build":11,"_Revision":0}
 	},
 	
 	"sap-17" :
 	{
-		"Description":"Konstru UI Update",
-		"Version":{"_Major":2,"_Minor":1,"_Build":8,"_Revision":0}
+		"Description":"Attribute Update Fixes",
+		"Version":{"_Major":2,"_Minor":1,"_Build":11,"_Revision":0}
 	},
 	
 	"sap-18" :
 	{
-		"Description":"Konstru UI Update",
-		"Version":{"_Major":2,"_Minor":1,"_Build":8,"_Revision":0}
+		"Description":"Attribute Update Fixes",
+		"Version":{"_Major":2,"_Minor":1,"_Build":11,"_Revision":0}
 	},
 	
 	"sap-19" :
 	{
-		"Description":"Konstru UI Update",
-		"Version":{"_Major":2,"_Minor":1,"_Build":8,"_Revision":0}
+		"Description":"Attribute Update Fixes",
+		"Version":{"_Major":2,"_Minor":1,"_Build":11,"_Revision":0}
 	},
 	
 	"grasshopper-1" :
@@ -43,49 +43,49 @@
 	
 	"etabs-2015" :
 	{
-		"Description":"Konstru UI Update",
-		"Version":{"_Major":2,"_Minor":1,"_Build":8,"_Revision":0}
+		"Description":"Attribute Update Fixes",
+		"Version":{"_Major":2,"_Minor":1,"_Build":11,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
-		"Description":"Konstru UI Update",
-		"Version":{"_Major":2,"_Minor":1,"_Build":8,"_Revision":0}
+		"Description":"Attribute Update Fixes",
+		"Version":{"_Major":2,"_Minor":1,"_Build":11,"_Revision":0}
 	},
 	
 	"excel-2013" :
 	{
-		"Description":"Konstru UI Update",
-		"Version":{"_Major":2,"_Minor":1,"_Build":8,"_Revision":0}
+		"Description":"Attribute Update Fixes",
+		"Version":{"_Major":2,"_Minor":1,"_Build":11,"_Revision":0}
 	},
 	
 	"ram-00" :
 	{
-		"Description":"Studs and Cambers Added",
-		"Version":{"_Major":2,"_Minor":1,"_Build":9,"_Revision":0}
+		"Description":"Attribute Update Fixes",
+		"Version":{"_Major":2,"_Minor":1,"_Build":11,"_Revision":0}
 	},
 	
 	"tekla-20" :
 	{
-		"Description":"Tekla Bounds & Forces Hotfix",
-		"Version":{"_Major":2,"_Minor":1,"_Build":10,"_Revision":0}
+		"Description":"Attribute Update Fixes",
+		"Version":{"_Major":2,"_Minor":1,"_Build":11,"_Revision":0}
 	},
 	
 	"tekla-21" :
 	{
-		"Description":"Tekla Bounds & Forces Hotfix",
-		"Version":{"_Major":2,"_Minor":1,"_Build":10,"_Revision":0}
+		"Description":"Attribute Update Fixes",
+		"Version":{"_Major":2,"_Minor":1,"_Build":11,"_Revision":0}
 	},
 	
 	"tekla-2016i" :
 	{
-		"Description":"Tekla Bounds & Forces Hotfix",
-		"Version":{"_Major":2,"_Minor":1,"_Build":10,"_Revision":0}
+		"Description":"Attribute Update Fixes",
+		"Version":{"_Major":2,"_Minor":1,"_Build":11,"_Revision":0}
 	},
 	
 	"tekla-2017i" :
 	{
-		"Description":"Tekla Bounds & Forces Hotfix",
-		"Version":{"_Major":2,"_Minor":1,"_Build":10,"_Revision":0}
+		"Description":"Attribute Update Fixes",
+		"Version":{"_Major":2,"_Minor":1,"_Build":11,"_Revision":0}
 	}
 }
