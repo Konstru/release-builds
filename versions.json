@@ -1,38 +1,47 @@
 {
 	"revit-2016" : 
 	{
-		"Description":"Review Improved",
-		"Version":{"_Major":2,"_Minor":2,"_Build":1,"_Revision":0}
+		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
+		"Version":{"_Major":2,"_Minor":2,"_Build":2,"_Revision":0}
 	},
 	
 	"revit-2017" :
 	{
-		"Description":"Review Improved",
-		"Version":{"_Major":2,"_Minor":2,"_Build":1,"_Revision":0}
+		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
+		"Version":{"_Major":2,"_Minor":2,"_Build":2,"_Revision":0}
 	},
 	
 	"revit-2018" :
 	{
-		"Description":"Review Improved",
-		"Version":{"_Major":2,"_Minor":2,"_Build":1,"_Revision":0}
+		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
+		"Version":{"_Major":2,"_Minor":2,"_Build":2,"_Revision":0}
 	},
 	
 	"sap-17" :
 	{
-		"Description":"Review Improved",
-		"Version":{"_Major":2,"_Minor":2,"_Build":1,"_Revision":0}
+		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
+		"Version":{"_Major":2,"_Minor":2,"_Build":2,"_Revision":0}
 	},
 	
 	"sap-18" :
 	{
-		"Description":"Review Improved",
-		"Version":{"_Major":2,"_Minor":2,"_Build":1,"_Revision":0}
+		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
+		"Version":{"_Major":2,"_Minor":2,"_Build":2,"_Revision":0}
 	},
-	
-	"sap-19" :
+
+  "sap-19": {
+    "Description": "SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 2,
+      "_Revision": 0
+    }
+  },
+  	"sap-20" :
 	{
-		"Description":"Review Improved",
-		"Version":{"_Major":2,"_Minor":2,"_Build":1,"_Revision":0}
+		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
+		"Version":{"_Major":2,"_Minor":2,"_Build":2,"_Revision":0}
 	},
 	
 	"grasshopper-1" :
@@ -43,55 +52,55 @@
 	
 	"etabs-2015" :
 	{
-		"Description":"Review Improved",
-		"Version":{"_Major":2,"_Minor":2,"_Build":1,"_Revision":0}
+		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
+		"Version":{"_Major":2,"_Minor":2,"_Build":2,"_Revision":0}
 	},
 	
 	"etabs-2016" :
 	{
-		"Description":"Review Improved",
-		"Version":{"_Major":2,"_Minor":2,"_Build":1,"_Revision":0}
+		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
+		"Version":{"_Major":2,"_Minor":2,"_Build":2,"_Revision":0}
 	},
 	
 	"excel-2013" :
 	{
-		"Description":"Review Improved",
-		"Version":{"_Major":2,"_Minor":2,"_Build":1,"_Revision":0}
+		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
+		"Version":{"_Major":2,"_Minor":2,"_Build":2,"_Revision":0}
 	},
 	
 	"ram-00" :
 	{
-		"Description":"Review Improved",
-		"Version":{"_Major":2,"_Minor":2,"_Build":1,"_Revision":0}
+		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
+		"Version":{"_Major":2,"_Minor":2,"_Build":2,"_Revision":0}
 	},
 	
 	"ram-15" :
 	{
-		"Description":"Review Improved",
-		"Version":{"_Major":2,"_Minor":2,"_Build":1,"_Revision":0}
+		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
+		"Version":{"_Major":2,"_Minor":2,"_Build":2,"_Revision":0}
 	},
 	
 	"tekla-20" :
 	{
-		"Description":"Review Improved",
-		"Version":{"_Major":2,"_Minor":2,"_Build":1,"_Revision":0}
+		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
+		"Version":{"_Major":2,"_Minor":2,"_Build":2,"_Revision":0}
 	},
 	
 	"tekla-21" :
 	{
-		"Description":"Review Improved",
-		"Version":{"_Major":2,"_Minor":2,"_Build":1,"_Revision":0}
+		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
+		"Version":{"_Major":2,"_Minor":2,"_Build":2,"_Revision":0}
 	},
 	
 	"tekla-2016i" :
 	{
-		"Description":"Review Improved",
-		"Version":{"_Major":2,"_Minor":2,"_Build":1,"_Revision":0}
+		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
+		"Version":{"_Major":2,"_Minor":2,"_Build":2,"_Revision":0}
 	},
 	
 	"tekla-2017i" :
 	{
-		"Description":"Review Improved",
-		"Version":{"_Major":2,"_Minor":2,"_Build":1,"_Revision":0}
+		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
+		"Version":{"_Major":2,"_Minor":2,"_Build":2,"_Revision":0}
 	}
 }
