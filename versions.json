@@ -73,6 +73,12 @@
 		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
 		"Version":{"_Major":2,"_Minor":2,"_Build":3,"_Revision":0}
 	},
+
+	"ram-01" :
+	{
+		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
+		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":0}
+	},
 	
 	"ram-15" :
 	{
