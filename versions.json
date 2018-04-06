@@ -2,31 +2,31 @@
 	"revit-2016" : 
 	{
 		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
-		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":1}
+		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":2}
 	},
 	
 	"revit-2017" :
 	{
 		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
-		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":1}
+		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":2}
 	},
 	
 	"revit-2018" :
 	{
 		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
-		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":1}
+		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":2}
 	},
 	
 	"sap-17" :
 	{
 		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
-		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":1}
+		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":2}
 	},
 	
 	"sap-18" :
 	{
 		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
-		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":1}
+		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":2}
 	},
 
   "sap-19": {
@@ -35,72 +35,72 @@
       "_Major": 2,
       "_Minor": 2,
       "_Build": 4,
-      "_Revision": 1
+      "_Revision": 2
     }
   },
   	"sap-20" :
 	{
 		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
-		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":1}
+		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":2}
 	},
 	
 	"grasshopper-1" :
 	{
 		"Description":"Fixed deleting elements",
-		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":1}
+		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":2}
 	},
 	
 	"etabs-2015" :
 	{
 		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
-		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":1}
+		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":2}
 	},
 	
 	"etabs-2016" :
 	{
 		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
-		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":1}
+		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":2}
 	},
 	
 	"excel-2013" :
 	{
 		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
-		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":1}
+		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":2}
 	},
 	
 	"ram-00" :
 	{
 		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
-		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":1}
+		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":2}
 	},
 	
 	"ram-15" :
 	{
 		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
-		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":1}
+		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":2}
 	},
 	
 	"tekla-20" :
 	{
 		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
-		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":1}
+		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":2}
 	},
 	
 	"tekla-21" :
 	{
 		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
-		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":1}
+		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":2}
 	},
 	
 	"tekla-2016i" :
 	{
 		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
-		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":1}
+		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":2}
 	},
 	
 	"tekla-2017i" :
 	{
 		"Description":"SAP V20 support and various other improvements for RAM, Grasshopper and Dynamo",
-		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":1}
+		"Version":{"_Major":2,"_Minor":2,"_Build":4,"_Revision":2}
 	}
 }
