@@ -1,22 +1,22 @@
 {
     "revit-2015": {
         "Description": "Enhancements and bug fixes",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 17, "_Revision": 0 }
+        "Version": { "_Major": 2, "_Minor": 2, "_Build": 17, "_Revision": 1 }
     },
 
     "revit-2016": {
         "Description": "Enhancements and bug fixes",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 17, "_Revision": 0 }
+        "Version": { "_Major": 2, "_Minor": 2, "_Build": 17, "_Revision": 1 }
     },
 
     "revit-2017": {
         "Description": "Enhancements and bug fixes",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 17, "_Revision": 0 }
+        "Version": { "_Major": 2, "_Minor": 2, "_Build": 17, "_Revision": 1 }
     },
 
     "revit-2018": {
         "Description": "Enhancements and bug fixes",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 17, "_Revision": 0 }
+        "Version": { "_Major": 2, "_Minor": 2, "_Build": 17, "_Revision": 1 }
     },
 
     "sap-17": {
