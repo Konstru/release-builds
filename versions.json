@@ -26,7 +26,7 @@
 
     "sap-17": {
         "Description": "Enhancements and bug fixes",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 18, "_Revision": 0 }
+        "Version": { "_Major": 2, "_Minor": 2, "_Build": 18, "_Revision": 2 }
     },
 
     "sap-18": {
@@ -86,7 +86,7 @@
 
     "tekla-21": {
         "Description": "Enhancements and bug fixes",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 18, "_Revision": 0 }
+        "Version": { "_Major": 2, "_Minor": 2, "_Build": 18, "_Revision": 2 }
     },
 
     "tekla-2016i": {
