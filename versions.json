@@ -49,6 +49,11 @@
         "Version": { "_Major": 2, "_Minor": 2, "_Build": 18, "_Revision": 2 }
     },
 
+    "grasshopper-1.1": {
+        "Description": "Fixed deleting elements",
+        "Version": { "_Major": 2, "_Minor": 2, "_Build": 18, "_Revision": 2 }
+    },
+
     "etabs-2015": {
         "Description": "Enhancements and bug fixes",
         "Version": { "_Major": 2, "_Minor": 2, "_Build": 18, "_Revision": 2 }
