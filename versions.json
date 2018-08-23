@@ -51,17 +51,17 @@
 
     "etabs-2015": {
         "Description": "Enhancements and bug fixes",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 18, "_Revision": 3 }
+        "Version": { "_Major": 2, "_Minor": 2, "_Build": 18, "_Revision": 4 }
     },
 
     "etabs-2016": {
         "Description": "Enhancements and bug fixes",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 18, "_Revision": 3 }
+        "Version": { "_Major": 2, "_Minor": 2, "_Build": 18, "_Revision": 4 }
     },
 
     "etabs-17": {
         "Description": "Enhancements and bug fixes",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 18, "_Revision": 3 }
+        "Version": { "_Major": 2, "_Minor": 2, "_Build": 18, "_Revision": 4 }
     },
 
     "excel-2013": {
