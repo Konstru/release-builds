@@ -30,18 +30,18 @@
     },
 
     "sap-18": {
-        "Description": "Performance upgrade",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 1 }
+        "Description": "Curved frames improved",
+        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 2 }
     },
 
     "sap-19": {
-        "Description": "Performance upgrade",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 1 }
+        "Description": "Curved frames improved",
+        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 2 }
     },
 
     "sap-20": {
-        "Description": "Performance upgrade",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 1 }
+        "Description": "Curved frames improved",
+        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 2 }
     },
 
     "grasshopper-1": {
