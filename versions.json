@@ -83,27 +83,27 @@
     },
 
     "tekla-20": {
-        "Description": "Performance upgrade",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 1 }
+        "Description": "Map UDA and change log",
+        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 2 }
     },
 
     "tekla-21": {
-        "Description": "Performance upgrade",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 1 }
+        "Description": "Map UDA and change log",
+        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 2 }
     },
 
     "tekla-2016i": {
-        "Description": "Performance upgrade",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 1 }
+        "Description": "Map UDA and change log",
+        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 2 }
     },
 
     "tekla-2017i": {
-        "Description": "Performance upgrade",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 1 }
+        "Description": "Map UDA and change log",
+        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 2 }
     },
 
     "tekla-2018": {
-        "Description": "Performance upgrade",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 1 }
+        "Description": "Map UDA and change log",
+        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 2 }
     }
 }
