@@ -1,109 +1,239 @@
 {
-    "revit-2015": {
-        "Description": "Performance upgrade",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 1 }
-    },
-
-    "revit-2016": {
-        "Description": "Performance upgrade",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 1 }
-    },
-
-    "revit-2017": {
-        "Description": "Performance upgrade",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 1 }
-    },
-
-    "revit-2018": {
-        "Description": "Performance upgrade",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 1 }
-    },
-
-    "revit-2019": {
-        "Description": "Performance upgrade",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 1 }
-    },
-
-    "sap-17": {
-        "Description": "Performance upgrade",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 1 }
-    },
-
-    "sap-18": {
-        "Description": "Curved frames improved",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 2 }
-    },
-
-    "sap-19": {
-        "Description": "Curved frames improved",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 2 }
-    },
-
-    "sap-20": {
-        "Description": "Curved frames improved",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 2 }
-    },
-
-    "grasshopper-1": {
-        "Description": "Non Planar areas bug fixed",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 1 }
-    },
-        "grasshopper-1.1": {
-        "Description": "New gh plugin",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 1 }
-    },
-    "etabs-2015": {
-        "Description": "Performance upgrade",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 1 }
-    },
-
-    "etabs-2016": {
-        "Description": "Performance upgrade",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 1 }
-    },
-
-    "etabs-17": {
-        "Description": "Performance upgrade",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 1 }
-    },
-
-    "excel-2013": {
-        "Description": "Performance upgrade",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 1 }
-    },
-
-    "ram-00": {
-        "Description": "Performance upgrade",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 1 }
-    },
-
-    "ram-15": {
-        "Description": "Performance upgrade",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 1 }
-    },
-
-    "tekla-20": {
-        "Description": "Map UDA and change log",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 2 }
-    },
-
-    "tekla-21": {
-        "Description": "Map UDA and change log",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 2 }
-    },
-
-    "tekla-2016i": {
-        "Description": "Map UDA and change log",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 2 }
-    },
-
-    "tekla-2017i": {
-        "Description": "Map UDA and change log",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 2 }
-    },
-
-    "tekla-2018": {
-        "Description": "Map UDA and change log",
-        "Version": { "_Major": 2, "_Minor": 2, "_Build": 19, "_Revision": 2 }
+  "revit-2015": {
+    "Description": "Performance upgrade",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 1
     }
+  },
+
+  "revit-2016": {
+    "Description": "Performance upgrade",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 1
+    }
+  },
+
+  "revit-2017": {
+    "Description": "Performance upgrade",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 1
+    }
+  },
+
+  "revit-2018": {
+    "Description": "Performance upgrade",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 1
+    }
+  },
+
+  "revit-2019": {
+    "Description": "Performance upgrade",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 1
+    }
+  },
+
+  "revit-2020": {
+    "Description": "Add New Version",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 1
+    }
+  },
+
+  "sap-17": {
+    "Description": "Performance upgrade",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 1
+    }
+  },
+
+  "sap-18": {
+    "Description": "Curved frames improved",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 2
+    }
+  },
+
+  "sap-19": {
+    "Description": "Curved frames improved",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 2
+    }
+  },
+
+  "sap-20": {
+    "Description": "Curved frames improved",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 2
+    }
+  },
+
+  "grasshopper-1": {
+    "Description": "Non Planar areas bug fixed",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 1
+    }
+  },
+  "grasshopper-1.1": {
+    "Description": "New gh plugin",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 1
+    }
+  },
+  "etabs-2015": {
+    "Description": "Performance upgrade",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 1
+    }
+  },
+
+  "etabs-2016": {
+    "Description": "Performance upgrade",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 1
+    }
+  },
+
+  "etabs-17": {
+    "Description": "Performance upgrade",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 1
+    }
+  },
+
+  "etabs-18": {
+    "Description": "Add New Version",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 1
+    }
+  },
+
+  "excel-2013": {
+    "Description": "Performance upgrade",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 1
+    }
+  },
+
+  "ram-00": {
+    "Description": "Performance upgrade",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 1
+    }
+  },
+
+  "ram-15": {
+    "Description": "Performance upgrade",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 1
+    }
+  },
+
+  "tekla-20": {
+    "Description": "Map UDA and change log",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 2
+    }
+  },
+
+  "tekla-21": {
+    "Description": "Map UDA and change log",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 2
+    }
+  },
+
+  "tekla-2016i": {
+    "Description": "Map UDA and change log",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 2
+    }
+  },
+
+  "tekla-2017i": {
+    "Description": "Map UDA and change log",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 2
+    }
+  },
+
+  "tekla-2018": {
+    "Description": "Map UDA and change log",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 2
+    }
+  }
 }
