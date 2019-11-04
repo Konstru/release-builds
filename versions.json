@@ -228,22 +228,22 @@
   },
 
   "tekla-2017i": {
-    "Description": "Map UDA and change log",
+    "Description": "Fixed change report",
     "Version": {
       "_Major": 2,
       "_Minor": 2,
       "_Build": 19,
-      "_Revision": 2
+      "_Revision": 4
     }
   },
 
   "tekla-2018": {
-    "Description": "Map UDA and change log",
+    "Description": "Fixed change report",
     "Version": {
       "_Major": 2,
       "_Minor": 2,
       "_Build": 19,
-      "_Revision": 2
+      "_Revision": 4
     }
   }
 }
