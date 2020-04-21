@@ -100,12 +100,12 @@
   },
 
   "sap-21": {
-    "Description": "Add New Version",
+    "Description": "Analysis Results bug fixes",
     "Version": {
       "_Major": 2,
       "_Minor": 2,
       "_Build": 19,
-      "_Revision": 4
+      "_Revision": 5
     }
   },
 
@@ -158,12 +158,12 @@
   },
 
   "etabs-18": {
-    "Description": "Add New Version",
+    "Description": "Analysis Results bug fixes",
     "Version": {
       "_Major": 2,
       "_Minor": 2,
       "_Build": 19,
-      "_Revision": 4
+      "_Revision": 5
     }
   },
 
