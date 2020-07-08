@@ -178,22 +178,22 @@
   },
 
   "ram-00": {
-    "Description": "Performance upgrade",
+    "Description": "Support for v17",
     "Version": {
       "_Major": 2,
       "_Minor": 2,
       "_Build": 19,
-      "_Revision": 1
+      "_Revision": 4
     }
   },
 
   "ram-15": {
-    "Description": "Performance upgrade",
+    "Description": "Support for v17",
     "Version": {
       "_Major": 2,
       "_Minor": 2,
       "_Build": 19,
-      "_Revision": 1
+      "_Revision": 4
     }
   },
 
