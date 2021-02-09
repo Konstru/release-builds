@@ -59,6 +59,16 @@
     }
   },
 
+  "revit-2021": {
+    "Description": "Initial Revit 2021",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 2,
+      "_Build": 19,
+      "_Revision": 5
+    }
+  },
+
   "sap-17": {
     "Description": "Performance upgrade",
     "Version": {
