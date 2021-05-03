@@ -120,21 +120,21 @@
   },
 
   "grasshopper-1": {
-    "Description": "Non Planar areas bug fixed",
+    "Description": "Default Profile for Beam Brace and Column components",
     "Version": {
       "_Major": 2,
       "_Minor": 2,
       "_Build": 19,
-      "_Revision": 6
+      "_Revision": 7
     }
   },
   "grasshopper-1.1": {
-    "Description": "New gh plugin",
+    "Description": "Default Profile for Beam Brace and Column components",
     "Version": {
       "_Major": 2,
       "_Minor": 2,
       "_Build": 19,
-      "_Revision": 6
+      "_Revision": 7
     }
   },
   "etabs-2015": {
