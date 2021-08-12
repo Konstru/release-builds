@@ -120,21 +120,21 @@
   },
 
   "grasshopper-1": {
-    "Description": "Default Profile for Beam Brace and Column components",
+    "Description": "Support TLS 1.2",
     "Version": {
       "_Major": 2,
-      "_Minor": 2,
-      "_Build": 19,
-      "_Revision": 7
+      "_Minor": 3,
+      "_Build": 0,
+      "_Revision": 0
     }
   },
   "grasshopper-1.1": {
-    "Description": "Default Profile for Beam Brace and Column components",
+    "Description": "Support TLS 1.2",
     "Version": {
       "_Major": 2,
-      "_Minor": 2,
-      "_Build": 19,
-      "_Revision": 7
+      "_Minor": 3,
+      "_Build": 0,
+      "_Revision": 0
     }
   },
   "etabs-2015": {
