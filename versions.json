@@ -10,62 +10,62 @@
   },
 
   "revit-2016": {
-    "Description": "Performance upgrade",
+    "Description": "Support TLS 1.2",
     "Version": {
       "_Major": 2,
-      "_Minor": 2,
-      "_Build": 19,
-      "_Revision": 1
+      "_Minor": 3,
+      "_Build": 0,
+      "_Revision": 0
     }
   },
 
   "revit-2017": {
-    "Description": "Performance upgrade",
+    "Description": "Support TLS 1.2",
     "Version": {
       "_Major": 2,
-      "_Minor": 2,
-      "_Build": 19,
-      "_Revision": 1
+      "_Minor": 3,
+      "_Build": 0,
+      "_Revision": 0
     }
   },
 
   "revit-2018": {
-    "Description": "Performance upgrade",
+    "Description": "Support TLS 1.2",
     "Version": {
       "_Major": 2,
-      "_Minor": 2,
-      "_Build": 19,
-      "_Revision": 6
+      "_Minor": 3,
+      "_Build": 0,
+      "_Revision": 0
     }
   },
 
   "revit-2019": {
-    "Description": "Family Template Update",
+    "Description": "Support TLS 1.2",
     "Version": {
       "_Major": 2,
-      "_Minor": 2,
-      "_Build": 19,
-      "_Revision": 7
+      "_Minor": 3,
+      "_Build": 0,
+      "_Revision": 0
     }
   },
 
   "revit-2020": {
-    "Description": "Family Template Update",
+    "Description": "Support TLS 1.2",
     "Version": {
       "_Major": 2,
-      "_Minor": 2,
-      "_Build": 19,
-      "_Revision": 8
+      "_Minor": 3,
+      "_Build": 0,
+      "_Revision": 0
     }
   },
 
   "revit-2021": {
-    "Description": "Initial Revit 2021",
+    "Description": "Support TLS 1.2",
     "Version": {
       "_Major": 2,
-      "_Minor": 2,
-      "_Build": 19,
-      "_Revision": 5
+      "_Minor": 3,
+      "_Build": 0,
+      "_Revision": 0
     }
   },
 
