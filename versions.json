@@ -70,52 +70,52 @@
   },
 
   "sap-17": {
-    "Description": "Performance upgrade",
+    "Description": "Support TLS 1.2",
     "Version": {
       "_Major": 2,
-      "_Minor": 2,
-      "_Build": 19,
-      "_Revision": 1
+      "_Minor": 3,
+      "_Build": 0,
+      "_Revision": 0
     }
   },
 
   "sap-18": {
-    "Description": "Curved frames improved",
+    "Description": "Support TLS 1.2",
     "Version": {
       "_Major": 2,
-      "_Minor": 2,
-      "_Build": 19,
-      "_Revision": 2
+      "_Minor": 3,
+      "_Build": 0,
+      "_Revision": 0
     }
   },
 
   "sap-19": {
-    "Description": "Add New Version",
+    "Description": "Support TLS 1.2",
     "Version": {
       "_Major": 2,
-      "_Minor": 2,
-      "_Build": 19,
-      "_Revision": 4
+      "_Minor": 3,
+      "_Build": 0,
+      "_Revision": 0
     }
   },
 
   "sap-20": {
-    "Description": "Custom Section bug fixed",
+    "Description": "Support TLS 1.2",
     "Version": {
       "_Major": 2,
-      "_Minor": 2,
-      "_Build": 19,
-      "_Revision": 6
+      "_Minor": 3,
+      "_Build": 0,
+      "_Revision": 0
     }
   },
 
   "sap-21": {
-    "Description": "Custom Section bug fixed",
+    "Description": "Support TLS 1.2",
     "Version": {
       "_Major": 2,
-      "_Minor": 2,
-      "_Build": 19,
-      "_Revision": 6
+      "_Minor": 3,
+      "_Build": 0,
+      "_Revision": 0
     }
   },
 
