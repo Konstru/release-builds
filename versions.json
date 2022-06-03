@@ -208,21 +208,21 @@
   },
 
   "ram-15": {
-    "Description": "Support TLS 1.2",
+    "Description": "Noncomposite stud bug fix",
     "Version": {
       "_Major": 2,
       "_Minor": 3,
-      "_Build": 0,
+      "_Build": 2,
       "_Revision": 0
     }
   },
 
   "ram-17": {
-    "Description": "Support TLS 1.2",
+    "Description": "Noncomposite stud bug fix",
     "Version": {
       "_Major": 2,
       "_Minor": 3,
-      "_Build": 0,
+      "_Build": 2,
       "_Revision": 0
     }
   },
