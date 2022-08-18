@@ -258,36 +258,46 @@
   },
 
   "tekla-2017i": {
-    "Description": "Support TLS 1.2",
+    "Description": "Attribute bug",
     "Version": {
       "_Major": 2,
       "_Minor": 3,
-      "_Build": 0,
+      "_Build": 2,
       "_Revision": 0
     }
   },
 
   "tekla-2018": {
-    "Description": "Support TLS 1.2",
+    "Description": "Attribute bug",
     "Version": {
       "_Major": 2,
       "_Minor": 3,
-      "_Build": 0,
+      "_Build": 2,
       "_Revision": 0
     }
   },
 
   "tekla-2018i": {
-    "Description": "Support TLS 1.2",
+    "Description": "Attribute bug",
     "Version": {
       "_Major": 2,
       "_Minor": 3,
-      "_Build": 0,
+      "_Build": 2,
       "_Revision": 0
     }
   },
 
   "tekla-2019i": {
+    "Description": "Attribute bug",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 3,
+      "_Build": 2,
+      "_Revision": 0
+    }
+  },
+
+  "tekla-2020": {
     "Description": "Attribute bug",
     "Version": {
       "_Major": 2,
