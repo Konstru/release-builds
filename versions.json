@@ -288,21 +288,21 @@
     }
   },
   "tekla-2019i": {
-    "Description": "Attribute bug",
+    "Description": "Download Performance Improvement",
     "Version": {
       "_Major": 2,
       "_Minor": 3,
       "_Build": 2,
-      "_Revision": 0
+      "_Revision": 1
     }
   },
   "tekla-2020": {
-    "Description": "Attribute bug",
+    "Description": "Download Performance Improvement",
     "Version": {
       "_Major": 2,
       "_Minor": 3,
       "_Build": 2,
-      "_Revision": 0
+      "_Revision": 1
     }
   }
 }
