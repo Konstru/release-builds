@@ -323,6 +323,15 @@
       "_Revision": 2
     }
   },
+  "tekla-2023": {
+    "Description": "Zendesk to GitBook",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 3,
+      "_Build": 4,
+      "_Revision": 2
+    }
+  },
   "tekla-2024": {
     "Description": "Zendesk to GitBook",
     "Version": {
