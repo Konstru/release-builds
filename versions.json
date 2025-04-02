@@ -242,6 +242,15 @@
       "_Revision": 0
     }
   },
+  "ram-2024": {
+    "Description": "Zendesk to GitBook",
+    "Version": {
+      "_Major": 2,
+      "_Minor": 3,
+      "_Build": 3,
+      "_Revision": 1
+    }
+  },
   "tekla-20": {
     "Description": "Support TLS 1.2",
     "Version": {
