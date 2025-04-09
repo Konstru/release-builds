@@ -198,12 +198,12 @@
     }
   },
   "etabs-19": {
-    "Description": "DigiCert Updated, Etabs v22 supported",
+    "Description": "Zendesk to GitBook",
     "Version": {
       "_Major": 2,
       "_Minor": 3,
       "_Build": 5,
-      "_Revision": 0
+      "_Revision": 1
     }
   },
   "excel-2013": {
