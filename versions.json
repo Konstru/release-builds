@@ -207,12 +207,12 @@
     }
   },
   "excel-2013": {
-    "Description": "Support TLS 1.2",
+    "Description": "Zendesk to GitBook",
     "Version": {
       "_Major": 2,
       "_Minor": 3,
-      "_Build": 0,
-      "_Revision": 0
+      "_Build": 1,
+      "_Revision": 1
     }
   },
   "ram-00": {
