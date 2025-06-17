@@ -198,12 +198,12 @@
     }
   },
   "etabs-19": {
-    "Description": "Zendesk to GitBook",
+    "Description": "Hotfix support walls with null properties",
     "Version": {
       "_Major": 2,
       "_Minor": 3,
       "_Build": 5,
-      "_Revision": 1
+      "_Revision": 3
     }
   },
   "excel-2013": {
