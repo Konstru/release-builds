@@ -144,21 +144,21 @@
     }
   },
   "grasshopper-1": {
-    "Description": "Zendesk to GitBook",
+    "Description": "Fixed Get Group Elements",
     "Version": {
       "_Major": 2,
       "_Minor": 3,
       "_Build": 2,
-      "_Revision": 1
+      "_Revision": 3
     }
   },
   "grasshopper-1.1": {
-    "Description": "Zendesk to GitBook",
+    "Description": "Fixed Get Group Elements",
     "Version": {
       "_Major": 2,
       "_Minor": 3,
       "_Build": 2,
-      "_Revision": 1
+      "_Revision": 3
     }
   },
   "etabs-2015": {
