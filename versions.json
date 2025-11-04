@@ -162,21 +162,21 @@
     }
   },
   "grasshopper-1": {
-    "Description": "Fixed Get Group Elements",
+    "Description": "Fixed Short Elements Handling",
     "Version": {
       "_Major": 2,
       "_Minor": 3,
       "_Build": 2,
-      "_Revision": 3
+      "_Revision": 4
     }
   },
   "grasshopper-1.1": {
-    "Description": "Fixed Get Group Elements",
+    "Description": "Fixed Short Elements Handling",
     "Version": {
       "_Major": 2,
       "_Minor": 3,
       "_Build": 2,
-      "_Revision": 3
+      "_Revision": 4
     }
   },
   "etabs-2015": {
